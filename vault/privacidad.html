@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Política de privacidad de Vivada Vault</title>
+<meta name="description" content="Política de privacidad de Vivada Vault, el gestor de contraseñas sin nube de Vivada Proyect.">
+<style>
+  :root {
+    --bg: #ffffff;
+    --text: #17202e;
+    --muted: #55637a;
+    --accent: #0a62d6;
+    --card: #f2f6fc;
+    --line: #d9e2f0;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0a1424;
+      --text: #e6edf8;
+      --muted: #a9b8d0;
+      --accent: #5aa2ff;
+      --card: #102038;
+      --line: #223656;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 17px/1.65 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  main { max-width: 760px; margin: 0 auto; padding: 40px 20px 72px; }
+  h1 { font-size: 2rem; line-height: 1.2; margin: 0 0 8px; }
+  h2 { font-size: 1.3rem; margin: 2.2em 0 0.5em; }
+  p, li { margin: 0.6em 0; }
+  ul { padding-left: 1.3em; }
+  .meta { color: var(--muted); font-size: 0.95rem; margin-bottom: 28px; }
+  .meta p { margin: 0.15em 0; }
+  .summary {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    padding: 6px 22px;
+    margin: 24px 0;
+  }
+  a { color: var(--accent); }
+  footer { color: var(--muted); font-size: 0.9rem; margin-top: 48px; border-top: 1px solid var(--line); padding-top: 16px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Política de privacidad de Vivada Vault</h1>
+  <div class="meta">
+    <p><strong>Última actualización:</strong> 13 de octubre de 2026</p>
+    <p><strong>Desarrollador:</strong> Vivada Proyect</p>
+    <p><strong>Contacto:</strong> vivadaproyect@gmail.com</p>
+  </div>
+
+  <p>Vivada Vault es un gestor de contraseñas para Android que funciona <strong>sin conexión a Internet</strong>. Esta política explica, en pocas palabras, qué hace y qué no hace la aplicación con tu información.</p>
+
+  <section class="summary" aria-label="Resumen">
+    <h2 style="margin-top:0.8em">Resumen</h2>
+    <ul>
+      <li><strong>No recopilamos ningún dato personal.</strong> Ni el desarrollador ni ningún tercero reciben tus contraseñas, tu contraseña maestra ni información sobre cómo usas la app.</li>
+      <li><strong>Todo se queda en tu teléfono</strong>, cifrado.</li>
+      <li><strong>No hay cuentas, servidores, nube, anuncios ni análisis de uso.</strong></li>
+    </ul>
+  </section>
+
+  <h2>Qué información maneja la aplicación</h2>
+  <p>La app guarda en tu teléfono, y solo en tu teléfono:</p>
+  <ul>
+    <li><strong>Tus registros</strong> (nombre del sitio, usuario, contraseña, dirección web, notas y categoría), cifrados con AES-256-GCM.</li>
+    <li><strong>Ajustes de seguridad</strong> de la propia app (por ejemplo, el tiempo de bloqueo automático).</li>
+    <li><strong>Datos técnicos necesarios para abrir la bóveda</strong> (como los parámetros de derivación de clave y las claves envueltas por el sistema de Android).</li>
+  </ul>
+  <p><strong>Tu contraseña maestra nunca se guarda.</strong> Se usa solo para derivar la clave que abre la bóveda y se descarta. Por eso, <strong>si la olvidas y no tienes tu clave de recuperación, nadie —ni nosotros— podrá recuperar tus datos.</strong></p>
+
+  <h2>Conexión a Internet</h2>
+  <p>La aplicación <strong>no solicita el permiso de Internet</strong> y no puede enviar ni recibir datos por la red. No incluye servicios de publicidad, análisis, informes de errores ni ningún otro componente que se comunique con terceros.</p>
+
+  <h2>Permisos</h2>
+  <ul>
+    <li><strong>Biometría / huella (USE_BIOMETRIC, USE_FINGERPRINT):</strong> solo para que puedas desbloquear la app con tu huella o con el PIN, patrón o contraseña de tu teléfono, mediante el diálogo del sistema de Android. La app <strong>no tiene acceso a tu huella ni a tu PIN</strong>: Android solo le indica si la verificación fue correcta. Es opcional.</li>
+  </ul>
+  <p>La app no pide acceso a tu ubicación, contactos, fotos, micrófono, cámara ni almacenamiento.</p>
+
+  <h2>Portapapeles</h2>
+  <p>Cuando copias un usuario, una contraseña o una dirección, la app los coloca en el portapapeles marcados como sensibles y los <strong>borra automáticamente</strong> pasado el tiempo que elijas en los ajustes. Otras aplicaciones con acceso al portapapeles podrían leer ese contenido mientras permanezca allí.</p>
+
+  <h2>Copias de seguridad y sincronización</h2>
+  <p>La app <strong>no hace copias de seguridad en la nube ni sincroniza</strong> tus datos. Tampoco permite que Android incluya la bóveda en las copias de seguridad del sistema. Esto significa que <strong>si pierdes o cambias de teléfono, no podrás recuperar tus datos.</strong> Si desinstalas la app o borras sus datos, la bóveda se elimina de forma permanente.</p>
+
+  <h2>Protecciones de seguridad</h2>
+  <ul>
+    <li>La app oculta su contenido en las capturas de pantalla y en la vista de aplicaciones recientes.</li>
+    <li>Se bloquea automáticamente según el tiempo que elijas, y al bloquearse libera de la memoria los datos de la sesión.</li>
+    <li>Limita los intentos fallidos de contraseña.</li>
+  </ul>
+  <p>Ningún sistema es infalible. Mantén tu teléfono actualizado y no compartas tu contraseña maestra ni tu clave de recuperación.</p>
+
+  <h2>Menores de edad</h2>
+  <p>La aplicación no está dirigida a menores y no recopila información de nadie, incluidos los menores.</p>
+
+  <h2>Tus derechos</h2>
+  <p>Como no recopilamos ni almacenamos tus datos fuera de tu teléfono, <strong>no tenemos nada que acceder, rectificar o eliminar en nuestros sistemas.</strong> Tú controlas tus datos por completo: puedes editarlos o borrarlos desde la app, o eliminarlos todos desinstalándola.</p>
+
+  <h2>Cambios en esta política</h2>
+  <p>Si la aplicación cambia de forma que afecte a tu privacidad (por ejemplo, si algún día añadiera sincronización), actualizaremos esta política y lo indicaremos en la ficha de la aplicación antes de aplicar el cambio.</p>
+
+  <h2>Contacto</h2>
+  <p>Si tienes preguntas sobre esta política, escribe a: <strong>vivadaproyect@gmail.com</strong></p>
+
+  <footer>© 2026 Vivada Proyect · Vivada Vault</footer>
+</main>
+</body>
+</html>
