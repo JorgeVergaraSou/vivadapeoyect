@@ -1,0 +1,42 @@
+[
+  {
+    "idCategoria": 1,
+    "nombre": "Juguetes",
+    "deletedAt": null
+  },
+  {
+    "idCategoria": 2,
+    "nombre": "Pelotas y deportes",
+    "deletedAt": null
+  },
+  {
+    "idCategoria": 3,
+    "nombre": "Calzado",
+    "deletedAt": null
+  },
+  {
+    "idCategoria": 4,
+    "nombre": "Librería",
+    "deletedAt": null
+  },
+  {
+    "idCategoria": 5,
+    "nombre": "Arte y pinturas",
+    "deletedAt": null
+  },
+  {
+    "idCategoria": 6,
+    "nombre": "Hogar y bazar",
+    "deletedAt": null
+  },
+  {
+    "idCategoria": 7,
+    "nombre": "Mochilas y accesorios",
+    "deletedAt": null
+  },
+  {
+    "idCategoria": 8,
+    "nombre": "Tecnología",
+    "deletedAt": null
+  }
+]

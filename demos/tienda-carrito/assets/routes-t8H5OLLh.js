@@ -1,0 +1,1 @@
+var e={LOGIN:`login`,REGISTER:`register`},t={PRIVATE:`private`,ADMIN:`admin`,USER:`user`,GUEST:`guest`,LOGOUT:`logout`,PERFIL:`perfil`};export{e as n,t};

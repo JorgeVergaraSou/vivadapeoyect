@@ -1,0 +1,437 @@
+[
+  {
+    "idOrden": 1,
+    "nombreContacto": "Andrea Villalba",
+    "email": "andrea.villalba@example.com",
+    "telefono": "+54 9 11 5555-1000",
+    "notas": null,
+    "estado": "PAID",
+    "total": 8900,
+    "items": [
+      {
+        "idOrdenItem": 1,
+        "idProducto": 1,
+        "nombreProducto": "Dinosaurio de goma articulado",
+        "cantidad": 1,
+        "precioUnitario": 8900
+      }
+    ],
+    "mercadoPagoPreferenceId": "demo-pref-1000",
+    "mercadoPagoPaymentId": "demo-pay-5000",
+    "createdAt": "2026-10-01T10:15:00.000Z",
+    "updatedAt": "2026-10-01T10:40:00.000Z"
+  },
+  {
+    "idOrden": 2,
+    "nombreContacto": "Martín Echeverría",
+    "email": "martin.echeverria@example.com",
+    "telefono": "+54 9 11 5555-1037",
+    "notas": "Retiro el sábado por la mañana",
+    "estado": "PAID",
+    "total": 79700,
+    "items": [
+      {
+        "idOrdenItem": 2,
+        "idProducto": 4,
+        "nombreProducto": "Peluche oso mediano",
+        "cantidad": 2,
+        "precioUnitario": 11800
+      },
+      {
+        "idOrdenItem": 3,
+        "idProducto": 9,
+        "nombreProducto": "Set de bádminton x4",
+        "cantidad": 3,
+        "precioUnitario": 18700
+      }
+    ],
+    "mercadoPagoPreferenceId": "demo-pref-1001",
+    "mercadoPagoPaymentId": "demo-pay-5001",
+    "createdAt": "2026-10-02T11:15:00.000Z",
+    "updatedAt": "2026-10-02T11:40:00.000Z"
+  },
+  {
+    "idOrden": 3,
+    "nombreContacto": "Rocío Salvatierra",
+    "email": "rocio.salvatierra@example.com",
+    "telefono": "+54 9 11 5555-1074",
+    "notas": null,
+    "estado": "PENDING",
+    "total": 52700,
+    "items": [
+      {
+        "idOrdenItem": 4,
+        "idProducto": 7,
+        "nombreProducto": "Pelota de básquet N°7",
+        "cantidad": 3,
+        "precioUnitario": 12400
+      },
+      {
+        "idOrdenItem": 5,
+        "idProducto": 12,
+        "nombreProducto": "Ojotas de playa",
+        "cantidad": 1,
+        "precioUnitario": 4300
+      },
+      {
+        "idOrdenItem": 6,
+        "idProducto": 17,
+        "nombreProducto": "Caja de témperas x12",
+        "cantidad": 2,
+        "precioUnitario": 5600
+      }
+    ],
+    "mercadoPagoPreferenceId": "demo-pref-1002",
+    "mercadoPagoPaymentId": null,
+    "createdAt": "2026-10-03T12:15:00.000Z",
+    "updatedAt": "2026-10-03T12:40:00.000Z"
+  },
+  {
+    "idOrden": 4,
+    "nombreContacto": "Facundo Ledesma",
+    "email": "facundo.ledesma@example.com",
+    "telefono": "+54 9 11 5555-1111",
+    "notas": "Paso a buscarlo después de las 18 h",
+    "estado": "PAID",
+    "total": 28500,
+    "items": [
+      {
+        "idOrdenItem": 7,
+        "idProducto": 10,
+        "nombreProducto": "Zapatillas urbanas negras",
+        "cantidad": 1,
+        "precioUnitario": 28500
+      }
+    ],
+    "mercadoPagoPreferenceId": "demo-pref-1003",
+    "mercadoPagoPaymentId": "demo-pay-5003",
+    "createdAt": "2026-10-04T13:15:00.000Z",
+    "updatedAt": "2026-10-04T13:40:00.000Z"
+  },
+  {
+    "idOrden": 5,
+    "nombreContacto": "Belén Aguirre",
+    "email": "belen.aguirre@example.com",
+    "telefono": "+54 9 11 5555-1148",
+    "notas": null,
+    "estado": "FAILED",
+    "total": 53200,
+    "items": [
+      {
+        "idOrdenItem": 8,
+        "idProducto": 13,
+        "nombreProducto": "Cuaderno espiralado 80 hojas",
+        "cantidad": 2,
+        "precioUnitario": 2900
+      },
+      {
+        "idOrdenItem": 9,
+        "idProducto": 18,
+        "nombreProducto": "Caballete de mesa",
+        "cantidad": 3,
+        "precioUnitario": 15800
+      }
+    ],
+    "mercadoPagoPreferenceId": "demo-pref-1004",
+    "mercadoPagoPaymentId": null,
+    "createdAt": "2026-10-05T14:15:00.000Z",
+    "updatedAt": "2026-10-05T14:40:00.000Z"
+  },
+  {
+    "idOrden": 6,
+    "nombreContacto": "Sebastián Orellana",
+    "email": "sebastian.orellana@example.com",
+    "telefono": "+54 9 11 5555-1185",
+    "notas": null,
+    "estado": "PAID",
+    "total": 42300,
+    "items": [
+      {
+        "idOrdenItem": 10,
+        "idProducto": 16,
+        "nombreProducto": "Set de acuarelas x24",
+        "cantidad": 3,
+        "precioUnitario": 7900
+      },
+      {
+        "idOrdenItem": 11,
+        "idProducto": 21,
+        "nombreProducto": "Velas aromáticas pack x3",
+        "cantidad": 1,
+        "precioUnitario": 8200
+      },
+      {
+        "idOrdenItem": 12,
+        "idProducto": 3,
+        "nombreProducto": "Auto a fricción de carrera",
+        "cantidad": 2,
+        "precioUnitario": 5200
+      }
+    ],
+    "mercadoPagoPreferenceId": "demo-pref-1005",
+    "mercadoPagoPaymentId": "demo-pay-5005",
+    "createdAt": "2026-10-06T15:15:00.000Z",
+    "updatedAt": "2026-10-06T15:40:00.000Z"
+  },
+  {
+    "idOrden": 7,
+    "nombreContacto": "Daniela Funes",
+    "email": "daniela.funes@example.com",
+    "telefono": "+54 9 11 5555-1222",
+    "notas": "Es un regalo, por favor sin precio",
+    "estado": "PENDING",
+    "total": 3500,
+    "items": [
+      {
+        "idOrdenItem": 13,
+        "idProducto": 19,
+        "nombreProducto": "Taza de cerámica lunares",
+        "cantidad": 1,
+        "precioUnitario": 3500
+      }
+    ],
+    "mercadoPagoPreferenceId": "demo-pref-1006",
+    "mercadoPagoPaymentId": null,
+    "createdAt": "2026-10-07T16:15:00.000Z",
+    "updatedAt": "2026-10-07T16:40:00.000Z"
+  },
+  {
+    "idOrden": 8,
+    "nombreContacto": "Gonzalo Ibarra",
+    "email": "gonzalo.ibarra@example.com",
+    "telefono": "+54 9 11 5555-1259",
+    "notas": null,
+    "estado": "PAID",
+    "total": 78400,
+    "items": [
+      {
+        "idOrdenItem": 14,
+        "idProducto": 22,
+        "nombreProducto": "Mochila escolar azul",
+        "cantidad": 2,
+        "precioUnitario": 21500
+      },
+      {
+        "idOrdenItem": 15,
+        "idProducto": 4,
+        "nombreProducto": "Peluche oso mediano",
+        "cantidad": 3,
+        "precioUnitario": 11800
+      }
+    ],
+    "mercadoPagoPreferenceId": "demo-pref-1007",
+    "mercadoPagoPaymentId": "demo-pay-5007",
+    "createdAt": "2026-10-08T17:15:00.000Z",
+    "updatedAt": "2026-10-08T17:40:00.000Z"
+  },
+  {
+    "idOrden": 9,
+    "nombreContacto": "Mariana Castaño",
+    "email": "mariana.castano@example.com",
+    "telefono": "+54 9 11 5555-1296",
+    "notas": null,
+    "estado": "CANCELLED",
+    "total": 64500,
+    "items": [
+      {
+        "idOrdenItem": 16,
+        "idProducto": 2,
+        "nombreProducto": "Set de bloques de colores x100",
+        "cantidad": 3,
+        "precioUnitario": 14500
+      },
+      {
+        "idOrdenItem": 17,
+        "idProducto": 7,
+        "nombreProducto": "Pelota de básquet N°7",
+        "cantidad": 1,
+        "precioUnitario": 12400
+      },
+      {
+        "idOrdenItem": 18,
+        "idProducto": 12,
+        "nombreProducto": "Ojotas de playa",
+        "cantidad": 2,
+        "precioUnitario": 4300
+      }
+    ],
+    "mercadoPagoPreferenceId": "demo-pref-1008",
+    "mercadoPagoPaymentId": null,
+    "createdAt": "2026-10-09T18:15:00.000Z",
+    "updatedAt": "2026-10-09T18:40:00.000Z"
+  },
+  {
+    "idOrden": 10,
+    "nombreContacto": "Leandro Pereyra",
+    "email": "leandro.pereyra@example.com",
+    "telefono": "+54 9 11 5555-1333",
+    "notas": null,
+    "estado": "PAID",
+    "total": 7300,
+    "items": [
+      {
+        "idOrdenItem": 19,
+        "idProducto": 5,
+        "nombreProducto": "Rompecabezas de 200 piezas",
+        "cantidad": 1,
+        "precioUnitario": 7300
+      }
+    ],
+    "mercadoPagoPreferenceId": "demo-pref-1009",
+    "mercadoPagoPaymentId": "demo-pay-5009",
+    "createdAt": "2026-10-10T19:15:00.000Z",
+    "updatedAt": "2026-10-10T19:40:00.000Z"
+  },
+  {
+    "idOrden": 11,
+    "nombreContacto": "Antonella Rivas",
+    "email": "antonella.rivas@example.com",
+    "telefono": "+54 9 11 5555-1370",
+    "notas": "Retiro mi hermana",
+    "estado": "PAID",
+    "total": 22300,
+    "items": [
+      {
+        "idOrdenItem": 20,
+        "idProducto": 8,
+        "nombreProducto": "Raqueta de ping pong",
+        "cantidad": 2,
+        "precioUnitario": 6800
+      },
+      {
+        "idOrdenItem": 21,
+        "idProducto": 13,
+        "nombreProducto": "Cuaderno espiralado 80 hojas",
+        "cantidad": 3,
+        "precioUnitario": 2900
+      }
+    ],
+    "mercadoPagoPreferenceId": "demo-pref-1010",
+    "mercadoPagoPaymentId": "demo-pay-5010",
+    "createdAt": "2026-10-11T10:15:00.000Z",
+    "updatedAt": "2026-10-11T10:40:00.000Z"
+  },
+  {
+    "idOrden": 12,
+    "nombreContacto": "Federico Montes",
+    "email": "federico.montes@example.com",
+    "telefono": "+54 9 11 5555-1407",
+    "notas": null,
+    "estado": "PENDING",
+    "total": 123000,
+    "items": [
+      {
+        "idOrdenItem": 22,
+        "idProducto": 11,
+        "nombreProducto": "Zapatillas de running celestes",
+        "cantidad": 3,
+        "precioUnitario": 32900
+      },
+      {
+        "idOrdenItem": 23,
+        "idProducto": 16,
+        "nombreProducto": "Set de acuarelas x24",
+        "cantidad": 1,
+        "precioUnitario": 7900
+      },
+      {
+        "idOrdenItem": 24,
+        "idProducto": 21,
+        "nombreProducto": "Velas aromáticas pack x3",
+        "cantidad": 2,
+        "precioUnitario": 8200
+      }
+    ],
+    "mercadoPagoPreferenceId": "demo-pref-1011",
+    "mercadoPagoPaymentId": null,
+    "createdAt": "2026-10-12T11:15:00.000Z",
+    "updatedAt": "2026-10-12T11:40:00.000Z"
+  },
+  {
+    "idOrden": 13,
+    "nombreContacto": "Carolina Bustos",
+    "email": "carolina.bustos@example.com",
+    "telefono": "+54 9 11 5555-1444",
+    "notas": null,
+    "estado": "PAID",
+    "total": 1800,
+    "items": [
+      {
+        "idOrdenItem": 25,
+        "idProducto": 14,
+        "nombreProducto": "Pack de lapiceras x10",
+        "cantidad": 1,
+        "precioUnitario": 1800
+      }
+    ],
+    "mercadoPagoPreferenceId": "demo-pref-1012",
+    "mercadoPagoPaymentId": "demo-pay-5012",
+    "createdAt": "2026-10-13T12:15:00.000Z",
+    "updatedAt": "2026-10-13T12:40:00.000Z"
+  },
+  {
+    "idOrden": 14,
+    "nombreContacto": "Ezequiel Toledo",
+    "email": "ezequiel.toledo@example.com",
+    "telefono": "+54 9 11 5555-1481",
+    "notas": null,
+    "estado": "FAILED",
+    "total": 75700,
+    "items": [
+      {
+        "idOrdenItem": 26,
+        "idProducto": 17,
+        "nombreProducto": "Caja de témperas x12",
+        "cantidad": 2,
+        "precioUnitario": 5600
+      },
+      {
+        "idOrdenItem": 27,
+        "idProducto": 22,
+        "nombreProducto": "Mochila escolar azul",
+        "cantidad": 3,
+        "precioUnitario": 21500
+      }
+    ],
+    "mercadoPagoPreferenceId": "demo-pref-1013",
+    "mercadoPagoPaymentId": null,
+    "createdAt": "2026-10-14T13:15:00.000Z",
+    "updatedAt": "2026-10-14T13:40:00.000Z"
+  },
+  {
+    "idOrden": 15,
+    "nombreContacto": "Milagros Cardozo",
+    "email": "milagros.cardozo@example.com",
+    "telefono": "+54 9 11 5555-1518",
+    "notas": null,
+    "estado": "PAID",
+    "total": 68700,
+    "items": [
+      {
+        "idOrdenItem": 28,
+        "idProducto": 20,
+        "nombreProducto": "Set de 6 vasos de vidrio",
+        "cantidad": 3,
+        "precioUnitario": 9800
+      },
+      {
+        "idOrdenItem": 29,
+        "idProducto": 2,
+        "nombreProducto": "Set de bloques de colores x100",
+        "cantidad": 1,
+        "precioUnitario": 14500
+      },
+      {
+        "idOrdenItem": 30,
+        "idProducto": 7,
+        "nombreProducto": "Pelota de básquet N°7",
+        "cantidad": 2,
+        "precioUnitario": 12400
+      }
+    ],
+    "mercadoPagoPreferenceId": "demo-pref-1014",
+    "mercadoPagoPaymentId": "demo-pay-5014",
+    "createdAt": "2026-10-15T14:15:00.000Z",
+    "updatedAt": "2026-10-15T14:40:00.000Z"
+  }
+]

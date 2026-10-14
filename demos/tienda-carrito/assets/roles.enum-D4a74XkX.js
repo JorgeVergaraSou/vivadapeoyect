@@ -1,0 +1,1 @@
+var e=function(e){return e.ADMIN=`ADMIN`,e.USER=`USER`,e.GUEST=`GUEST`,e.EMPTY=``,e}({});export{e as t};

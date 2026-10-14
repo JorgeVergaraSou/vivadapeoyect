@@ -1,0 +1,167 @@
+[
+  {
+    "idUser": 1,
+    "nickUsuario": "demo",
+    "nombre": "Demo",
+    "apellido": "Vivada",
+    "email": "demo@vivadaproyect.com",
+    "role": "ADMIN",
+    "password": "demo1234",
+    "fotoUrl": null,
+    "deletedAt": null
+  },
+  {
+    "idUser": 2,
+    "nickUsuario": "mlopez",
+    "nombre": "Marina",
+    "apellido": "López Ferrer",
+    "email": "marina.lopez@example.com",
+    "role": "USER",
+    "password": "demo1234",
+    "fotoUrl": null,
+    "deletedAt": null
+  },
+  {
+    "idUser": 3,
+    "nickUsuario": "tquiroga",
+    "nombre": "Tomás",
+    "apellido": "Quiroga Salas",
+    "email": "tomas.quiroga@example.com",
+    "role": "USER",
+    "password": "demo1234",
+    "fotoUrl": null,
+    "deletedAt": null
+  },
+  {
+    "idUser": 4,
+    "nickUsuario": "cbenitez",
+    "nombre": "Camila",
+    "apellido": "Benítez Roldán",
+    "email": "camila.benitez@example.com",
+    "role": "USER",
+    "password": "demo1234",
+    "fotoUrl": null,
+    "deletedAt": null
+  },
+  {
+    "idUser": 5,
+    "nickUsuario": "invitado",
+    "nombre": "Invitado",
+    "apellido": "Demo",
+    "email": "invitado@example.com",
+    "role": "GUEST",
+    "password": "demo1234",
+    "fotoUrl": null,
+    "deletedAt": null
+  },
+  {
+    "idUser": 6,
+    "nickUsuario": "jperalta",
+    "nombre": "Julián",
+    "apellido": "Peralta Ríos",
+    "email": "julian.peralta@example.com",
+    "role": "GUEST",
+    "password": "demo1234",
+    "fotoUrl": null,
+    "deletedAt": null
+  },
+  {
+    "idUser": 7,
+    "nickUsuario": "sduarte",
+    "nombre": "Sofía",
+    "apellido": "Duarte Molina",
+    "email": "sofia.duarte@example.com",
+    "role": "USER",
+    "password": "demo1234",
+    "fotoUrl": null,
+    "deletedAt": null
+  },
+  {
+    "idUser": 8,
+    "nickUsuario": "rcabrera",
+    "nombre": "Ramiro",
+    "apellido": "Cabrera Núñez",
+    "email": "ramiro.cabrera@example.com",
+    "role": "GUEST",
+    "password": "demo1234",
+    "fotoUrl": null,
+    "deletedAt": null
+  },
+  {
+    "idUser": 9,
+    "nickUsuario": "vortiz",
+    "nombre": "Valentina",
+    "apellido": "Ortiz Paz",
+    "email": "valentina.ortiz@example.com",
+    "role": "USER",
+    "password": "demo1234",
+    "fotoUrl": null,
+    "deletedAt": null
+  },
+  {
+    "idUser": 10,
+    "nickUsuario": "nmedina",
+    "nombre": "Nicolás",
+    "apellido": "Medina Vera",
+    "email": "nicolas.medina@example.com",
+    "role": "GUEST",
+    "password": "demo1234",
+    "fotoUrl": null,
+    "deletedAt": null
+  },
+  {
+    "idUser": 11,
+    "nickUsuario": "lfigueroa",
+    "nombre": "Lucía",
+    "apellido": "Figueroa Luna",
+    "email": "lucia.figueroa@example.com",
+    "role": "USER",
+    "password": "demo1234",
+    "fotoUrl": null,
+    "deletedAt": null
+  },
+  {
+    "idUser": 12,
+    "nickUsuario": "aherrera",
+    "nombre": "Agustín",
+    "apellido": "Herrera Sosa",
+    "email": "agustin.herrera@example.com",
+    "role": "GUEST",
+    "password": "demo1234",
+    "fotoUrl": null,
+    "deletedAt": null
+  },
+  {
+    "idUser": 13,
+    "nickUsuario": "pdominguez",
+    "nombre": "Paula",
+    "apellido": "Domínguez Acosta",
+    "email": "paula.dominguez@example.com",
+    "role": "USER",
+    "password": "demo1234",
+    "fotoUrl": null,
+    "deletedAt": null
+  },
+  {
+    "idUser": 14,
+    "nickUsuario": "emendez",
+    "nombre": "Emiliano",
+    "apellido": "Méndez Gil",
+    "email": "emiliano.mendez@example.com",
+    "role": "GUEST",
+    "password": "demo1234",
+    "fotoUrl": null,
+    "deletedAt": "2026-09-20T10:00:00.000Z"
+  },
+  {
+    "idUser": 15,
+    "nickUsuario": "fsuarez",
+    "nombre": "Florencia",
+    "apellido": "Suárez Bravo",
+    "email": "florencia.suarez@example.com",
+    "role": "USER",
+    "password": "demo1234",
+    "fotoUrl": null,
+    "deletedAt": null
+  }
+]

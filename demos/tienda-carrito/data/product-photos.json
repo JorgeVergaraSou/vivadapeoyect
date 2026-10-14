@@ -1,0 +1,37 @@
+[
+  {
+    "idProductoImagen": 1,
+    "idProducto": 1,
+    "imageUrl": "/data/img/p02.svg"
+  },
+  {
+    "idProductoImagen": 2,
+    "idProducto": 1,
+    "imageUrl": "/data/img/p03.svg"
+  },
+  {
+    "idProductoImagen": 3,
+    "idProducto": 6,
+    "imageUrl": "/data/img/p07.svg"
+  },
+  {
+    "idProductoImagen": 4,
+    "idProducto": 10,
+    "imageUrl": "/data/img/p11.svg"
+  },
+  {
+    "idProductoImagen": 5,
+    "idProducto": 16,
+    "imageUrl": "/data/img/p17.svg"
+  },
+  {
+    "idProductoImagen": 6,
+    "idProducto": 16,
+    "imageUrl": "/data/img/p18.svg"
+  },
+  {
+    "idProductoImagen": 7,
+    "idProducto": 22,
+    "imageUrl": "/data/img/p23.svg"
+  }
+]
