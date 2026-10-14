@@ -1,0 +1,167 @@
+[
+ {
+  "idProveedor": 1,
+  "nameProveedor": "Distribuidora Mirasol",
+  "emailProveedor": "ventas1@proveedor-demo.example.com",
+  "phoneProveedor": "011-5550-1000",
+  "addressProveedor": "Calle Ficticia 100",
+  "ciudadId": 1,
+  "createdAt": "-200d@10:00",
+  "updatedAt": "-200d@10:00",
+  "deletedAt": null
+ },
+ {
+  "idProveedor": 2,
+  "nameProveedor": "Droguería Ribera Sur",
+  "emailProveedor": "ventas2@proveedor-demo.example.com",
+  "phoneProveedor": "011-5550-1037",
+  "addressProveedor": "Calle Ficticia 113",
+  "ciudadId": 2,
+  "createdAt": "-199d@10:00",
+  "updatedAt": "-199d@10:00",
+  "deletedAt": null
+ },
+ {
+  "idProveedor": 3,
+  "nameProveedor": "Insumos Hospitalarios Alba",
+  "emailProveedor": "ventas3@proveedor-demo.example.com",
+  "phoneProveedor": "011-5550-1074",
+  "addressProveedor": "Calle Ficticia 126",
+  "ciudadId": 7,
+  "createdAt": "-198d@10:00",
+  "updatedAt": "-198d@10:00",
+  "deletedAt": null
+ },
+ {
+  "idProveedor": 4,
+  "nameProveedor": "Suministros Médicos Cóndor",
+  "emailProveedor": "ventas4@proveedor-demo.example.com",
+  "phoneProveedor": "011-5550-1111",
+  "addressProveedor": "Calle Ficticia 139",
+  "ciudadId": 10,
+  "createdAt": "-197d@10:00",
+  "updatedAt": "-197d@10:00",
+  "deletedAt": null
+ },
+ {
+  "idProveedor": 5,
+  "nameProveedor": "Droguería Lumen",
+  "emailProveedor": "ventas5@proveedor-demo.example.com",
+  "phoneProveedor": "011-5550-1148",
+  "addressProveedor": "Calle Ficticia 152",
+  "ciudadId": 13,
+  "createdAt": "-196d@10:00",
+  "updatedAt": "-196d@10:00",
+  "deletedAt": null
+ },
+ {
+  "idProveedor": 6,
+  "nameProveedor": "Distribuidora Santa Elena",
+  "emailProveedor": "ventas6@proveedor-demo.example.com",
+  "phoneProveedor": "011-5550-1185",
+  "addressProveedor": "Calle Ficticia 165",
+  "ciudadId": 3,
+  "createdAt": "-195d@10:00",
+  "updatedAt": "-195d@10:00",
+  "deletedAt": null
+ },
+ {
+  "idProveedor": 7,
+  "nameProveedor": "Medical Pampa Insumos",
+  "emailProveedor": "ventas7@proveedor-demo.example.com",
+  "phoneProveedor": "011-5550-1222",
+  "addressProveedor": "Calle Ficticia 178",
+  "ciudadId": 4,
+  "createdAt": "-194d@10:00",
+  "updatedAt": "-194d@10:00",
+  "deletedAt": null
+ },
+ {
+  "idProveedor": 8,
+  "nameProveedor": "Droguería Nuevo Amanecer",
+  "emailProveedor": "ventas8@proveedor-demo.example.com",
+  "phoneProveedor": "011-5550-1259",
+  "addressProveedor": "Calle Ficticia 191",
+  "ciudadId": 15,
+  "createdAt": "-193d@10:00",
+  "updatedAt": "-193d@10:00",
+  "deletedAt": null
+ },
+ {
+  "idProveedor": 9,
+  "nameProveedor": "Hospitalaria Del Sur Demo",
+  "emailProveedor": "ventas9@proveedor-demo.example.com",
+  "phoneProveedor": "011-5550-1296",
+  "addressProveedor": "Calle Ficticia 204",
+  "ciudadId": 8,
+  "createdAt": "-192d@10:00",
+  "updatedAt": "-192d@10:00",
+  "deletedAt": null
+ },
+ {
+  "idProveedor": 10,
+  "nameProveedor": "Proveeduría Médica Aconcagua",
+  "emailProveedor": "ventas10@proveedor-demo.example.com",
+  "phoneProveedor": "011-5550-1333",
+  "addressProveedor": "Calle Ficticia 217",
+  "ciudadId": 14,
+  "createdAt": "-191d@10:00",
+  "updatedAt": "-191d@10:00",
+  "deletedAt": null
+ },
+ {
+  "idProveedor": 11,
+  "nameProveedor": "Distribuciones Solana",
+  "emailProveedor": "ventas11@proveedor-demo.example.com",
+  "phoneProveedor": "011-5550-1370",
+  "addressProveedor": "Calle Ficticia 230",
+  "ciudadId": 11,
+  "createdAt": "-190d@10:00",
+  "updatedAt": "-190d@10:00",
+  "deletedAt": null
+ },
+ {
+  "idProveedor": 12,
+  "nameProveedor": "Droguería Alto Verde",
+  "emailProveedor": "ventas12@proveedor-demo.example.com",
+  "phoneProveedor": "011-5550-1407",
+  "addressProveedor": "Calle Ficticia 243",
+  "ciudadId": 16,
+  "createdAt": "-189d@10:00",
+  "updatedAt": "-189d@10:00",
+  "deletedAt": null
+ },
+ {
+  "idProveedor": 13,
+  "nameProveedor": "Insumos Clínicos Marina",
+  "emailProveedor": "ventas13@proveedor-demo.example.com",
+  "phoneProveedor": "011-5550-1444",
+  "addressProveedor": "Calle Ficticia 256",
+  "ciudadId": 2,
+  "createdAt": "-188d@10:00",
+  "updatedAt": "-188d@10:00",
+  "deletedAt": null
+ },
+ {
+  "idProveedor": 14,
+  "nameProveedor": "Suministros Sanitarios Brújula",
+  "emailProveedor": "ventas14@proveedor-demo.example.com",
+  "phoneProveedor": "011-5550-1481",
+  "addressProveedor": "Calle Ficticia 269",
+  "ciudadId": 20,
+  "createdAt": "-187d@10:00",
+  "updatedAt": "-187d@10:00",
+  "deletedAt": null
+ },
+ {
+  "idProveedor": 15,
+  "nameProveedor": "Droguería Horizonte Demo",
+  "emailProveedor": "ventas15@proveedor-demo.example.com",
+  "phoneProveedor": "011-5550-1518",
+  "addressProveedor": "Calle Ficticia 282",
+  "ciudadId": 9,
+  "createdAt": "-186d@10:00",
+  "updatedAt": "-186d@10:00",
+  "deletedAt": "-15d@11:00"
+ }
+]

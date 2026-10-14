@@ -193,6 +193,7 @@ a { color: var(--link); }
 .section__head { max-width: 640px; margin-bottom: 40px; }
 
 .grid { display: grid; gap: 24px; }
+.grid--demos { max-width: 560px; margin-inline: auto; }
 
 /* ---------- Tarjetas ---------- */
 .card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow); overflow: hidden; transition: transform .3s ease, box-shadow .3s ease, background-color .2s ease, border-color .2s ease; }

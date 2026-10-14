@@ -1,0 +1,50 @@
+[
+ {
+  "idServicio": 1,
+  "nameServicio": "Clínica Médica",
+  "admitePacientes": true,
+  "deletedAt": null
+ },
+ {
+  "idServicio": 2,
+  "nameServicio": "Cirugía General",
+  "admitePacientes": true,
+  "deletedAt": null
+ },
+ {
+  "idServicio": 3,
+  "nameServicio": "Unidad de Terapia Intensiva",
+  "admitePacientes": true,
+  "deletedAt": null
+ },
+ {
+  "idServicio": 4,
+  "nameServicio": "Pediatría",
+  "admitePacientes": true,
+  "deletedAt": null
+ },
+ {
+  "idServicio": 5,
+  "nameServicio": "Maternidad",
+  "admitePacientes": true,
+  "deletedAt": null
+ },
+ {
+  "idServicio": 6,
+  "nameServicio": "Guardia",
+  "admitePacientes": false,
+  "deletedAt": null
+ },
+ {
+  "idServicio": 7,
+  "nameServicio": "Laboratorio",
+  "admitePacientes": false,
+  "deletedAt": null
+ },
+ {
+  "idServicio": 8,
+  "nameServicio": "Hemoterapia",
+  "admitePacientes": false,
+  "deletedAt": null
+ }
+]

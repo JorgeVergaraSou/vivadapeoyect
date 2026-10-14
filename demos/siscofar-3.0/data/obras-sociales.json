@@ -1,0 +1,77 @@
+[
+ {
+  "idObraSocial": 1,
+  "nombre": "Obra Social Horizonte",
+  "deletedAt": null
+ },
+ {
+  "idObraSocial": 2,
+  "nombre": "Mutual Aurora Salud",
+  "deletedAt": null
+ },
+ {
+  "idObraSocial": 3,
+  "nombre": "Previsión Austral",
+  "deletedAt": null
+ },
+ {
+  "idObraSocial": 4,
+  "nombre": "Cobertura Médica Delta",
+  "deletedAt": null
+ },
+ {
+  "idObraSocial": 5,
+  "nombre": "Obra Social del Litoral Demo",
+  "deletedAt": null
+ },
+ {
+  "idObraSocial": 6,
+  "nombre": "Mutual Cóndor",
+  "deletedAt": null
+ },
+ {
+  "idObraSocial": 7,
+  "nombre": "Salud Integral Norte",
+  "deletedAt": null
+ },
+ {
+  "idObraSocial": 8,
+  "nombre": "Asociación Mutual Mirador",
+  "deletedAt": null
+ },
+ {
+  "idObraSocial": 9,
+  "nombre": "Obra Social Pampa Viva",
+  "deletedAt": null
+ },
+ {
+  "idObraSocial": 10,
+  "nombre": "Prevención Cordillera",
+  "deletedAt": null
+ },
+ {
+  "idObraSocial": 11,
+  "nombre": "Mutual Solaris",
+  "deletedAt": null
+ },
+ {
+  "idObraSocial": 12,
+  "nombre": "Obra Social Ribera",
+  "deletedAt": null
+ },
+ {
+  "idObraSocial": 13,
+  "nombre": "Plan Salud Andino",
+  "deletedAt": null
+ },
+ {
+  "idObraSocial": 14,
+  "nombre": "Mutual Esperanza Demo",
+  "deletedAt": null
+ },
+ {
+  "idObraSocial": 15,
+  "nombre": "Obra Social Faro",
+  "deletedAt": "-20d@10:00"
+ }
+]

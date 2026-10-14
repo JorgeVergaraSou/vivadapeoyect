@@ -1,0 +1,86 @@
+[
+ {
+  "idDevolucion": 1,
+  "salidaId": 3,
+  "servicioId": 3,
+  "userId": 5,
+  "createdAt": "-35d@10:30"
+ },
+ {
+  "idDevolucion": 2,
+  "salidaId": 4,
+  "servicioId": 4,
+  "userId": 2,
+  "createdAt": "-32d@10:31"
+ },
+ {
+  "idDevolucion": 3,
+  "salidaId": 5,
+  "servicioId": 5,
+  "userId": 5,
+  "createdAt": "-31d@10:32"
+ },
+ {
+  "idDevolucion": 4,
+  "salidaId": 6,
+  "servicioId": 6,
+  "userId": 2,
+  "createdAt": "-28d@10:33"
+ },
+ {
+  "idDevolucion": 5,
+  "salidaId": 7,
+  "servicioId": 7,
+  "userId": 5,
+  "createdAt": "-27d@10:34"
+ },
+ {
+  "idDevolucion": 6,
+  "salidaId": 8,
+  "servicioId": 8,
+  "userId": 2,
+  "createdAt": "-24d@10:35"
+ },
+ {
+  "idDevolucion": 7,
+  "salidaId": 9,
+  "servicioId": 1,
+  "userId": 5,
+  "createdAt": "-23d@10:36"
+ },
+ {
+  "idDevolucion": 8,
+  "salidaId": 10,
+  "servicioId": 2,
+  "userId": 2,
+  "createdAt": "-20d@10:37"
+ },
+ {
+  "idDevolucion": 9,
+  "salidaId": 11,
+  "servicioId": 3,
+  "userId": 5,
+  "createdAt": "-19d@10:38"
+ },
+ {
+  "idDevolucion": 10,
+  "salidaId": 12,
+  "servicioId": 4,
+  "userId": 2,
+  "createdAt": "-16d@10:39"
+ },
+ {
+  "idDevolucion": 11,
+  "salidaId": 13,
+  "servicioId": 5,
+  "userId": 5,
+  "createdAt": "-15d@10:40"
+ },
+ {
+  "idDevolucion": 12,
+  "salidaId": 14,
+  "servicioId": 6,
+  "userId": 2,
+  "createdAt": "-12d@10:41"
+ }
+]

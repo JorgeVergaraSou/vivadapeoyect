@@ -1,0 +1,158 @@
+[
+ {
+  "idCama": 1,
+  "identificador": "1A",
+  "habitacionId": 1,
+  "deletedAt": null
+ },
+ {
+  "idCama": 2,
+  "identificador": "1B",
+  "habitacionId": 1,
+  "deletedAt": null
+ },
+ {
+  "idCama": 3,
+  "identificador": "1C",
+  "habitacionId": 1,
+  "deletedAt": null
+ },
+ {
+  "idCama": 4,
+  "identificador": "2A",
+  "habitacionId": 2,
+  "deletedAt": null
+ },
+ {
+  "idCama": 5,
+  "identificador": "2B",
+  "habitacionId": 2,
+  "deletedAt": null
+ },
+ {
+  "idCama": 6,
+  "identificador": "3A",
+  "habitacionId": 3,
+  "deletedAt": null
+ },
+ {
+  "idCama": 7,
+  "identificador": "3B",
+  "habitacionId": 3,
+  "deletedAt": null
+ },
+ {
+  "idCama": 8,
+  "identificador": "3C",
+  "habitacionId": 3,
+  "deletedAt": null
+ },
+ {
+  "idCama": 9,
+  "identificador": "11A",
+  "habitacionId": 4,
+  "deletedAt": null
+ },
+ {
+  "idCama": 10,
+  "identificador": "11B",
+  "habitacionId": 4,
+  "deletedAt": null
+ },
+ {
+  "idCama": 11,
+  "identificador": "11C",
+  "habitacionId": 4,
+  "deletedAt": null
+ },
+ {
+  "idCama": 12,
+  "identificador": "12A",
+  "habitacionId": 5,
+  "deletedAt": null
+ },
+ {
+  "idCama": 13,
+  "identificador": "12B",
+  "habitacionId": 5,
+  "deletedAt": null
+ },
+ {
+  "idCama": 14,
+  "identificador": "1A",
+  "habitacionId": 6,
+  "deletedAt": null
+ },
+ {
+  "idCama": 15,
+  "identificador": "1B",
+  "habitacionId": 6,
+  "deletedAt": null
+ },
+ {
+  "idCama": 16,
+  "identificador": "2A",
+  "habitacionId": 7,
+  "deletedAt": null
+ },
+ {
+  "idCama": 17,
+  "identificador": "2B",
+  "habitacionId": 7,
+  "deletedAt": null
+ },
+ {
+  "idCama": 18,
+  "identificador": "1A",
+  "habitacionId": 8,
+  "deletedAt": null
+ },
+ {
+  "idCama": 19,
+  "identificador": "1B",
+  "habitacionId": 8,
+  "deletedAt": null
+ },
+ {
+  "idCama": 20,
+  "identificador": "1C",
+  "habitacionId": 8,
+  "deletedAt": null
+ },
+ {
+  "idCama": 21,
+  "identificador": "2A",
+  "habitacionId": 9,
+  "deletedAt": null
+ },
+ {
+  "idCama": 22,
+  "identificador": "2B",
+  "habitacionId": 9,
+  "deletedAt": null
+ },
+ {
+  "idCama": 23,
+  "identificador": "21A",
+  "habitacionId": 10,
+  "deletedAt": null
+ },
+ {
+  "idCama": 24,
+  "identificador": "21B",
+  "habitacionId": 10,
+  "deletedAt": null
+ },
+ {
+  "idCama": 25,
+  "identificador": "22A",
+  "habitacionId": 11,
+  "deletedAt": null
+ },
+ {
+  "idCama": 26,
+  "identificador": "22B",
+  "habitacionId": 11,
+  "deletedAt": null
+ }
+]

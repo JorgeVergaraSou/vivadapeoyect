@@ -1,0 +1,122 @@
+[
+ {
+  "idCiudad": 1,
+  "nameCiudad": "La Plata",
+  "provinciaId": 1
+ },
+ {
+  "idCiudad": 2,
+  "nameCiudad": "Mar del Plata",
+  "provinciaId": 1
+ },
+ {
+  "idCiudad": 3,
+  "nameCiudad": "Bahía Blanca",
+  "provinciaId": 1
+ },
+ {
+  "idCiudad": 4,
+  "nameCiudad": "Tandil",
+  "provinciaId": 1
+ },
+ {
+  "idCiudad": 5,
+  "nameCiudad": "Palermo",
+  "provinciaId": 2
+ },
+ {
+  "idCiudad": 6,
+  "nameCiudad": "Caballito",
+  "provinciaId": 2
+ },
+ {
+  "idCiudad": 7,
+  "nameCiudad": "Córdoba",
+  "provinciaId": 6
+ },
+ {
+  "idCiudad": 8,
+  "nameCiudad": "Río Cuarto",
+  "provinciaId": 6
+ },
+ {
+  "idCiudad": 9,
+  "nameCiudad": "Villa María",
+  "provinciaId": 6
+ },
+ {
+  "idCiudad": 10,
+  "nameCiudad": "Rosario",
+  "provinciaId": 21
+ },
+ {
+  "idCiudad": 11,
+  "nameCiudad": "Santa Fe",
+  "provinciaId": 21
+ },
+ {
+  "idCiudad": 12,
+  "nameCiudad": "Rafaela",
+  "provinciaId": 21
+ },
+ {
+  "idCiudad": 13,
+  "nameCiudad": "Mendoza",
+  "provinciaId": 13
+ },
+ {
+  "idCiudad": 14,
+  "nameCiudad": "San Rafael",
+  "provinciaId": 13
+ },
+ {
+  "idCiudad": 15,
+  "nameCiudad": "San Miguel de Tucumán",
+  "provinciaId": 24
+ },
+ {
+  "idCiudad": 16,
+  "nameCiudad": "Salta",
+  "provinciaId": 17
+ },
+ {
+  "idCiudad": 17,
+  "nameCiudad": "Paraná",
+  "provinciaId": 8
+ },
+ {
+  "idCiudad": 18,
+  "nameCiudad": "Concordia",
+  "provinciaId": 8
+ },
+ {
+  "idCiudad": 19,
+  "nameCiudad": "Posadas",
+  "provinciaId": 14
+ },
+ {
+  "idCiudad": 20,
+  "nameCiudad": "Neuquén",
+  "provinciaId": 15
+ },
+ {
+  "idCiudad": 21,
+  "nameCiudad": "Resistencia",
+  "provinciaId": 4
+ },
+ {
+  "idCiudad": 22,
+  "nameCiudad": "Corrientes",
+  "provinciaId": 7
+ },
+ {
+  "idCiudad": 23,
+  "nameCiudad": "San Juan",
+  "provinciaId": 18
+ },
+ {
+  "idCiudad": 24,
+  "nameCiudad": "Trelew",
+  "provinciaId": 5
+ }
+]

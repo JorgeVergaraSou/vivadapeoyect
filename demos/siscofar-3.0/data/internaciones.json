@@ -1,0 +1,164 @@
+[
+ {
+  "idInternacion": 1,
+  "pacienteId": 1,
+  "servicioId": 1,
+  "camaId": 1,
+  "fechaIngreso": "-9d@08:30",
+  "fechaAlta": null,
+  "createdAt": "-9d@08:30"
+ },
+ {
+  "idInternacion": 2,
+  "pacienteId": 2,
+  "servicioId": 1,
+  "camaId": 2,
+  "fechaIngreso": "-7d@08:31",
+  "fechaAlta": null,
+  "createdAt": "-7d@08:31"
+ },
+ {
+  "idInternacion": 3,
+  "pacienteId": 3,
+  "servicioId": 1,
+  "camaId": 4,
+  "fechaIngreso": "-6d@08:32",
+  "fechaAlta": null,
+  "createdAt": "-6d@08:32"
+ },
+ {
+  "idInternacion": 4,
+  "pacienteId": 4,
+  "servicioId": 1,
+  "camaId": 5,
+  "fechaIngreso": "-4d@08:33",
+  "fechaAlta": null,
+  "createdAt": "-4d@08:33"
+ },
+ {
+  "idInternacion": 5,
+  "pacienteId": 6,
+  "servicioId": 2,
+  "camaId": 9,
+  "fechaIngreso": "-8d@08:34",
+  "fechaAlta": null,
+  "createdAt": "-8d@08:34"
+ },
+ {
+  "idInternacion": 6,
+  "pacienteId": 7,
+  "servicioId": 2,
+  "camaId": 11,
+  "fechaIngreso": "-5d@08:35",
+  "fechaAlta": null,
+  "createdAt": "-5d@08:35"
+ },
+ {
+  "idInternacion": 7,
+  "pacienteId": 8,
+  "servicioId": 2,
+  "camaId": 12,
+  "fechaIngreso": "-3d@08:36",
+  "fechaAlta": null,
+  "createdAt": "-3d@08:36"
+ },
+ {
+  "idInternacion": 8,
+  "pacienteId": 9,
+  "servicioId": 3,
+  "camaId": 14,
+  "fechaIngreso": "-10d@08:37",
+  "fechaAlta": null,
+  "createdAt": "-10d@08:37"
+ },
+ {
+  "idInternacion": 9,
+  "pacienteId": 10,
+  "servicioId": 3,
+  "camaId": 15,
+  "fechaIngreso": "-6d@08:38",
+  "fechaAlta": null,
+  "createdAt": "-6d@08:38"
+ },
+ {
+  "idInternacion": 10,
+  "pacienteId": 11,
+  "servicioId": 3,
+  "camaId": 16,
+  "fechaIngreso": "-2d@08:39",
+  "fechaAlta": null,
+  "createdAt": "-2d@08:39"
+ },
+ {
+  "idInternacion": 11,
+  "pacienteId": 12,
+  "servicioId": 4,
+  "camaId": 18,
+  "fechaIngreso": "-4d@08:40",
+  "fechaAlta": null,
+  "createdAt": "-4d@08:40"
+ },
+ {
+  "idInternacion": 12,
+  "pacienteId": 13,
+  "servicioId": 4,
+  "camaId": 21,
+  "fechaIngreso": "-2d@08:41",
+  "fechaAlta": null,
+  "createdAt": "-2d@08:41"
+ },
+ {
+  "idInternacion": 13,
+  "pacienteId": 14,
+  "servicioId": 5,
+  "camaId": 23,
+  "fechaIngreso": "-1d@08:42",
+  "fechaAlta": null,
+  "createdAt": "-1d@08:42"
+ },
+ {
+  "idInternacion": 14,
+  "pacienteId": 5,
+  "servicioId": 1,
+  "camaId": 7,
+  "fechaIngreso": "-12d@09:10",
+  "fechaAlta": null,
+  "createdAt": "-12d@09:10"
+ },
+ {
+  "idInternacion": 15,
+  "pacienteId": 15,
+  "servicioId": 1,
+  "camaId": 1,
+  "fechaIngreso": "-18d@10:00",
+  "fechaAlta": "-11d@12:00",
+  "createdAt": "-18d@10:00"
+ },
+ {
+  "idInternacion": 16,
+  "pacienteId": 16,
+  "servicioId": 2,
+  "camaId": 10,
+  "fechaIngreso": "-20d@10:00",
+  "fechaAlta": "-14d@12:00",
+  "createdAt": "-20d@10:00"
+ },
+ {
+  "idInternacion": 17,
+  "pacienteId": 17,
+  "servicioId": 4,
+  "camaId": 20,
+  "fechaIngreso": "-15d@10:00",
+  "fechaAlta": "-9d@12:00",
+  "createdAt": "-15d@10:00"
+ },
+ {
+  "idInternacion": 18,
+  "pacienteId": 18,
+  "servicioId": 3,
+  "camaId": 17,
+  "fechaIngreso": "-25d@10:00",
+  "fechaAlta": "-17d@12:00",
+  "createdAt": "-25d@10:00"
+ }
+]

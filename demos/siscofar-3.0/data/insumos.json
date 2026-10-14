@@ -1,0 +1,302 @@
+[
+ {
+  "idInsumo": 1,
+  "name": "Zolfenadina 10 mg comp x30",
+  "stockMinimo": 40,
+  "esVademecum": true,
+  "tipoInsumo": "MEDICAMENTOS",
+  "codigo": "MED-001",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 2,
+  "name": "Ketravil 500 mg comp x20",
+  "stockMinimo": 60,
+  "esVademecum": true,
+  "tipoInsumo": "MEDICAMENTOS",
+  "codigo": "MED-002",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 3,
+  "name": "Amoxarín 875 mg comp x14",
+  "stockMinimo": 40,
+  "esVademecum": true,
+  "tipoInsumo": "MEDICAMENTOS",
+  "codigo": "MED-003",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 4,
+  "name": "Dolpiren 1 g ampolla",
+  "stockMinimo": 366,
+  "esVademecum": true,
+  "tipoInsumo": "MEDICAMENTOS",
+  "codigo": "MED-004",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 5,
+  "name": "Cefalodex 1 g vial",
+  "stockMinimo": 50,
+  "esVademecum": true,
+  "tipoInsumo": "MEDICAMENTOS",
+  "codigo": "MED-005",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 6,
+  "name": "Omeprozal 40 mg vial",
+  "stockMinimo": 40,
+  "esVademecum": true,
+  "tipoInsumo": "MEDICAMENTOS",
+  "codigo": "MED-006",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 7,
+  "name": "Heparinex 5000 UI frasco",
+  "stockMinimo": 30,
+  "esVademecum": true,
+  "tipoInsumo": "MEDICAMENTOS",
+  "codigo": "MED-007",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 8,
+  "name": "Tramazen 100 mg ampolla",
+  "stockMinimo": 40,
+  "esVademecum": false,
+  "tipoInsumo": "MEDICAMENTOS",
+  "codigo": "MED-008",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 9,
+  "name": "Insuvital NPH 100 UI frasco",
+  "stockMinimo": 15,
+  "esVademecum": true,
+  "tipoInsumo": "MEDICAMENTOS",
+  "codigo": "MED-009",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 10,
+  "name": "Furosemar 20 mg ampolla",
+  "stockMinimo": 40,
+  "esVademecum": true,
+  "tipoInsumo": "MEDICAMENTOS",
+  "codigo": "MED-010",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 11,
+  "name": "Metoclovan 10 mg ampolla",
+  "stockMinimo": 40,
+  "esVademecum": true,
+  "tipoInsumo": "MEDICAMENTOS",
+  "codigo": "MED-011",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 12,
+  "name": "Lorazenil 2 mg comp x30",
+  "stockMinimo": 20,
+  "esVademecum": false,
+  "tipoInsumo": "MEDICAMENTOS",
+  "codigo": "MED-012",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 13,
+  "name": "Salbutavent aerosol 100 mcg",
+  "stockMinimo": 20,
+  "esVademecum": true,
+  "tipoInsumo": "MEDICAMENTOS",
+  "codigo": "MED-013",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 14,
+  "name": "Solución salina 0,9% 500 ml",
+  "stockMinimo": 120,
+  "esVademecum": true,
+  "tipoInsumo": "MEDICAMENTOS",
+  "codigo": "MED-014",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 15,
+  "name": "Solución dextrosada 5% 500 ml",
+  "stockMinimo": 80,
+  "esVademecum": true,
+  "tipoInsumo": "MEDICAMENTOS",
+  "codigo": "MED-015",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 16,
+  "name": "Ringer lactato 500 ml",
+  "stockMinimo": 80,
+  "esVademecum": true,
+  "tipoInsumo": "MEDICAMENTOS",
+  "codigo": "MED-016",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 17,
+  "name": "Vitalcor 25 mg comp x30",
+  "stockMinimo": 25,
+  "esVademecum": false,
+  "tipoInsumo": "MEDICAMENTOS",
+  "codigo": "MED-017",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 18,
+  "name": "Jeringa descartable 5 ml",
+  "stockMinimo": 200,
+  "esVademecum": false,
+  "tipoInsumo": "DESCARTABLES",
+  "codigo": "DES-001",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 19,
+  "name": "Jeringa descartable 10 ml",
+  "stockMinimo": 150,
+  "esVademecum": false,
+  "tipoInsumo": "DESCARTABLES",
+  "codigo": "DES-002",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 20,
+  "name": "Aguja descartable 21G",
+  "stockMinimo": 200,
+  "esVademecum": false,
+  "tipoInsumo": "DESCARTABLES",
+  "codigo": "DES-003",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 21,
+  "name": "Aguja descartable 25G",
+  "stockMinimo": 150,
+  "esVademecum": false,
+  "tipoInsumo": "DESCARTABLES",
+  "codigo": "DES-004",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 22,
+  "name": "Guantes de látex descartables talle M",
+  "stockMinimo": 300,
+  "esVademecum": false,
+  "tipoInsumo": "DESCARTABLES",
+  "codigo": "DES-005",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 23,
+  "name": "Guantes de nitrilo talle L",
+  "stockMinimo": 300,
+  "esVademecum": false,
+  "tipoInsumo": "DESCARTABLES",
+  "codigo": "DES-006",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 24,
+  "name": "Gasa estéril 10x10",
+  "stockMinimo": 1058,
+  "esVademecum": false,
+  "tipoInsumo": "DESCARTABLES",
+  "codigo": "DES-007",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 25,
+  "name": "Catéter endovenoso 20G",
+  "stockMinimo": 100,
+  "esVademecum": false,
+  "tipoInsumo": "DESCARTABLES",
+  "codigo": "DES-008",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 26,
+  "name": "Equipo de venoclisis",
+  "stockMinimo": 100,
+  "esVademecum": false,
+  "tipoInsumo": "DESCARTABLES",
+  "codigo": "DES-009",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 27,
+  "name": "Barbijo quirúrgico descartable",
+  "stockMinimo": 300,
+  "esVademecum": false,
+  "tipoInsumo": "DESCARTABLES",
+  "codigo": "DES-010",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 28,
+  "name": "Cinta hipoalergénica 2,5 cm",
+  "stockMinimo": 60,
+  "esVademecum": false,
+  "tipoInsumo": "DESCARTABLES",
+  "codigo": "DES-011",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 29,
+  "name": "Apósito transparente 6x7",
+  "stockMinimo": 80,
+  "esVademecum": false,
+  "tipoInsumo": "DESCARTABLES",
+  "codigo": "DES-012",
+  "createdAt": "-220d@09:00",
+  "deletedAt": null
+ },
+ {
+  "idInsumo": 30,
+  "name": "Sonda vesical Foley 16",
+  "stockMinimo": 40,
+  "esVademecum": false,
+  "tipoInsumo": "DESCARTABLES",
+  "codigo": "DES-013",
+  "createdAt": "-220d@09:00",
+  "deletedAt": "-25d@12:00"
+ }
+]

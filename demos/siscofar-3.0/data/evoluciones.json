@@ -1,0 +1,212 @@
+[
+ {
+  "idEvolucion": 1,
+  "internacionId": 1,
+  "texto": "Paciente estable, afebril. Tolera vía oral. Continúa con el plan indicado.",
+  "userId": 3,
+  "createdAt": "-3d@09:20"
+ },
+ {
+  "idEvolucion": 2,
+  "internacionId": 1,
+  "texto": "Refiere dolor leve controlado con analgesia. Se ajusta esquema.",
+  "userId": 4,
+  "createdAt": "-2d@10:20"
+ },
+ {
+  "idEvolucion": 3,
+  "internacionId": 1,
+  "texto": "Buena evolución clínica. Se solicita control de laboratorio para mañana.",
+  "userId": 3,
+  "createdAt": "-1d@11:20"
+ },
+ {
+  "idEvolucion": 4,
+  "internacionId": 2,
+  "texto": "Refiere dolor leve controlado con analgesia. Se ajusta esquema.",
+  "userId": 3,
+  "createdAt": "-2d@09:20"
+ },
+ {
+  "idEvolucion": 5,
+  "internacionId": 2,
+  "texto": "Buena evolución clínica. Se solicita control de laboratorio para mañana.",
+  "userId": 4,
+  "createdAt": "-1d@10:20"
+ },
+ {
+  "idEvolucion": 6,
+  "internacionId": 4,
+  "texto": "Sin cambios respecto de la jornada anterior. Se mantiene en observación.",
+  "userId": 3,
+  "createdAt": "-3d@09:20"
+ },
+ {
+  "idEvolucion": 7,
+  "internacionId": 4,
+  "texto": "Se realiza curación de herida, sin signos de infección. Se indica reposo.",
+  "userId": 4,
+  "createdAt": "-2d@10:20"
+ },
+ {
+  "idEvolucion": 8,
+  "internacionId": 4,
+  "texto": "Presenta mejoría respiratoria, se reduce requerimiento de oxígeno.",
+  "userId": 3,
+  "createdAt": "-1d@11:20"
+ },
+ {
+  "idEvolucion": 9,
+  "internacionId": 5,
+  "texto": "Se realiza curación de herida, sin signos de infección. Se indica reposo.",
+  "userId": 3,
+  "createdAt": "-2d@09:20"
+ },
+ {
+  "idEvolucion": 10,
+  "internacionId": 5,
+  "texto": "Presenta mejoría respiratoria, se reduce requerimiento de oxígeno.",
+  "userId": 4,
+  "createdAt": "-1d@10:20"
+ },
+ {
+  "idEvolucion": 11,
+  "internacionId": 7,
+  "texto": "Paciente estable, afebril. Tolera vía oral. Continúa con el plan indicado.",
+  "userId": 3,
+  "createdAt": "-3d@09:20"
+ },
+ {
+  "idEvolucion": 12,
+  "internacionId": 7,
+  "texto": "Refiere dolor leve controlado con analgesia. Se ajusta esquema.",
+  "userId": 4,
+  "createdAt": "-2d@10:20"
+ },
+ {
+  "idEvolucion": 13,
+  "internacionId": 7,
+  "texto": "Buena evolución clínica. Se solicita control de laboratorio para mañana.",
+  "userId": 3,
+  "createdAt": "-1d@11:20"
+ },
+ {
+  "idEvolucion": 14,
+  "internacionId": 8,
+  "texto": "Refiere dolor leve controlado con analgesia. Se ajusta esquema.",
+  "userId": 3,
+  "createdAt": "-2d@09:20"
+ },
+ {
+  "idEvolucion": 15,
+  "internacionId": 8,
+  "texto": "Buena evolución clínica. Se solicita control de laboratorio para mañana.",
+  "userId": 4,
+  "createdAt": "-1d@10:20"
+ },
+ {
+  "idEvolucion": 16,
+  "internacionId": 10,
+  "texto": "Sin cambios respecto de la jornada anterior. Se mantiene en observación.",
+  "userId": 3,
+  "createdAt": "-3d@09:20"
+ },
+ {
+  "idEvolucion": 17,
+  "internacionId": 10,
+  "texto": "Se realiza curación de herida, sin signos de infección. Se indica reposo.",
+  "userId": 4,
+  "createdAt": "-2d@10:20"
+ },
+ {
+  "idEvolucion": 18,
+  "internacionId": 10,
+  "texto": "Presenta mejoría respiratoria, se reduce requerimiento de oxígeno.",
+  "userId": 3,
+  "createdAt": "-1d@11:20"
+ },
+ {
+  "idEvolucion": 19,
+  "internacionId": 11,
+  "texto": "Se realiza curación de herida, sin signos de infección. Se indica reposo.",
+  "userId": 3,
+  "createdAt": "-2d@09:20"
+ },
+ {
+  "idEvolucion": 20,
+  "internacionId": 11,
+  "texto": "Presenta mejoría respiratoria, se reduce requerimiento de oxígeno.",
+  "userId": 4,
+  "createdAt": "-1d@10:20"
+ },
+ {
+  "idEvolucion": 21,
+  "internacionId": 13,
+  "texto": "Paciente estable, afebril. Tolera vía oral. Continúa con el plan indicado.",
+  "userId": 3,
+  "createdAt": "-3d@09:20"
+ },
+ {
+  "idEvolucion": 22,
+  "internacionId": 13,
+  "texto": "Refiere dolor leve controlado con analgesia. Se ajusta esquema.",
+  "userId": 4,
+  "createdAt": "-2d@10:20"
+ },
+ {
+  "idEvolucion": 23,
+  "internacionId": 13,
+  "texto": "Buena evolución clínica. Se solicita control de laboratorio para mañana.",
+  "userId": 3,
+  "createdAt": "-1d@11:20"
+ },
+ {
+  "idEvolucion": 24,
+  "internacionId": 14,
+  "texto": "Refiere dolor leve controlado con analgesia. Se ajusta esquema.",
+  "userId": 3,
+  "createdAt": "-2d@09:20"
+ },
+ {
+  "idEvolucion": 25,
+  "internacionId": 14,
+  "texto": "Buena evolución clínica. Se solicita control de laboratorio para mañana.",
+  "userId": 4,
+  "createdAt": "-1d@10:20"
+ },
+ {
+  "idEvolucion": 26,
+  "internacionId": 16,
+  "texto": "Sin cambios respecto de la jornada anterior. Se mantiene en observación.",
+  "userId": 3,
+  "createdAt": "-3d@09:20"
+ },
+ {
+  "idEvolucion": 27,
+  "internacionId": 16,
+  "texto": "Se realiza curación de herida, sin signos de infección. Se indica reposo.",
+  "userId": 4,
+  "createdAt": "-2d@10:20"
+ },
+ {
+  "idEvolucion": 28,
+  "internacionId": 16,
+  "texto": "Presenta mejoría respiratoria, se reduce requerimiento de oxígeno.",
+  "userId": 3,
+  "createdAt": "-1d@11:20"
+ },
+ {
+  "idEvolucion": 29,
+  "internacionId": 17,
+  "texto": "Se realiza curación de herida, sin signos de infección. Se indica reposo.",
+  "userId": 3,
+  "createdAt": "-2d@09:20"
+ },
+ {
+  "idEvolucion": 30,
+  "internacionId": 17,
+  "texto": "Presenta mejoría respiratoria, se reduce requerimiento de oxígeno.",
+  "userId": 4,
+  "createdAt": "-1d@10:20"
+ }
+]

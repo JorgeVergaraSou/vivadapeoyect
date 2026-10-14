@@ -1,0 +1,26 @@
+[
+ {
+  "id": 1,
+  "idSalidaInsumo": 33,
+  "internacionId": 4,
+  "motivo": "EN_OBSERVACION",
+  "userId": 3,
+  "createdAt": "-2d@08:45"
+ },
+ {
+  "id": 2,
+  "idSalidaInsumo": 34,
+  "internacionId": 16,
+  "motivo": "EN_OBSERVACION",
+  "userId": 3,
+  "createdAt": "-2d@08:45"
+ },
+ {
+  "id": 3,
+  "idSalidaInsumo": 35,
+  "internacionId": 18,
+  "motivo": "EN_OBSERVACION",
+  "userId": 4,
+  "createdAt": "-2d@08:45"
+ }
+]

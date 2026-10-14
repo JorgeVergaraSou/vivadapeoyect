@@ -1,0 +1,4742 @@
+[
+ {
+  "idDetalleDeSalida": 1,
+  "salidaId": 1,
+  "insumoId": 24,
+  "unidadesPedidas": 29,
+  "unidadesEntregadas": 29,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 9,
+    "numeroLote": "L-2612J17",
+    "cantidad": 29
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-40d@08:10"
+ },
+ {
+  "idDetalleDeSalida": 2,
+  "salidaId": 1,
+  "insumoId": 18,
+  "unidadesPedidas": 43,
+  "unidadesEntregadas": 40,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 40
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-40d@08:10"
+ },
+ {
+  "idDetalleDeSalida": 3,
+  "salidaId": 1,
+  "insumoId": 23,
+  "unidadesPedidas": 54,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-40d@08:10"
+ },
+ {
+  "idDetalleDeSalida": 4,
+  "salidaId": 1,
+  "insumoId": 5,
+  "unidadesPedidas": 14,
+  "unidadesEntregadas": 14,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 15,
+    "numeroLote": "L-2602P62",
+    "cantidad": 14
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-40d@08:10"
+ },
+ {
+  "idDetalleDeSalida": 5,
+  "salidaId": 2,
+  "insumoId": 11,
+  "unidadesPedidas": 7,
+  "unidadesEntregadas": 7,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 6,
+    "numeroLote": "L-2603G29",
+    "cantidad": 7
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-37d@09:10"
+ },
+ {
+  "idDetalleDeSalida": 6,
+  "salidaId": 2,
+  "insumoId": 10,
+  "unidadesPedidas": 8,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-37d@09:10"
+ },
+ {
+  "idDetalleDeSalida": 7,
+  "salidaId": 2,
+  "insumoId": 1,
+  "unidadesPedidas": 6,
+  "unidadesEntregadas": 6,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 4,
+    "numeroLote": "L-2604E68",
+    "cantidad": 6
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-37d@09:10"
+ },
+ {
+  "idDetalleDeSalida": 8,
+  "salidaId": 2,
+  "insumoId": 29,
+  "unidadesPedidas": 18,
+  "unidadesEntregadas": 18,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 33,
+    "numeroLote": "L-2601H44",
+    "cantidad": 18
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-37d@09:10"
+ },
+ {
+  "idDetalleDeSalida": 9,
+  "salidaId": 3,
+  "insumoId": 29,
+  "unidadesPedidas": 33,
+  "unidadesEntregadas": 33,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 33,
+    "numeroLote": "L-2601H44",
+    "cantidad": 33
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-36d@10:10"
+ },
+ {
+  "idDetalleDeSalida": 10,
+  "salidaId": 3,
+  "insumoId": 3,
+  "unidadesPedidas": 18,
+  "unidadesEntregadas": 18,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 21,
+    "numeroLote": "L-2610V17",
+    "cantidad": 18
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-36d@10:10"
+ },
+ {
+  "idDetalleDeSalida": 11,
+  "salidaId": 3,
+  "insumoId": 5,
+  "unidadesPedidas": 15,
+  "unidadesEntregadas": 15,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 15,
+    "numeroLote": "L-2602P62",
+    "cantidad": 15
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-36d@10:10"
+ },
+ {
+  "idDetalleDeSalida": 12,
+  "salidaId": 3,
+  "insumoId": 12,
+  "unidadesPedidas": 11,
+  "unidadesEntregadas": 7,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 19,
+    "numeroLote": "L-2606T87",
+    "cantidad": 7
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-36d@10:10"
+ },
+ {
+  "idDetalleDeSalida": 13,
+  "salidaId": 3,
+  "insumoId": 26,
+  "unidadesPedidas": 19,
+  "unidadesEntregadas": 19,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 13,
+    "numeroLote": "L-2611N47",
+    "cantidad": 19
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-36d@10:10"
+ },
+ {
+  "idDetalleDeSalida": 14,
+  "salidaId": 4,
+  "insumoId": 8,
+  "unidadesPedidas": 10,
+  "unidadesEntregadas": 10,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 10,
+    "numeroLote": "L-2601K96",
+    "cantidad": 10
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-33d@11:10"
+ },
+ {
+  "idDetalleDeSalida": 15,
+  "salidaId": 4,
+  "insumoId": 18,
+  "unidadesPedidas": 24,
+  "unidadesEntregadas": 24,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 24
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-33d@11:10"
+ },
+ {
+  "idDetalleDeSalida": 16,
+  "salidaId": 4,
+  "insumoId": 29,
+  "unidadesPedidas": 11,
+  "unidadesEntregadas": 11,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 33,
+    "numeroLote": "L-2601H44",
+    "cantidad": 11
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-33d@11:10"
+ },
+ {
+  "idDetalleDeSalida": 17,
+  "salidaId": 4,
+  "insumoId": 7,
+  "unidadesPedidas": 11,
+  "unidadesEntregadas": 11,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 5,
+    "numeroLote": "L-2610F57",
+    "cantidad": 11
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-33d@11:10"
+ },
+ {
+  "idDetalleDeSalida": 18,
+  "salidaId": 5,
+  "insumoId": 7,
+  "unidadesPedidas": 19,
+  "unidadesEntregadas": 19,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 5,
+    "numeroLote": "L-2610F57",
+    "cantidad": 19
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-32d@12:10"
+ },
+ {
+  "idDetalleDeSalida": 19,
+  "salidaId": 5,
+  "insumoId": 21,
+  "unidadesPedidas": 43,
+  "unidadesEntregadas": 43,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 26,
+    "numeroLote": "L-2609A47",
+    "cantidad": 43
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-32d@12:10"
+ },
+ {
+  "idDetalleDeSalida": 20,
+  "salidaId": 5,
+  "insumoId": 9,
+  "unidadesPedidas": 17,
+  "unidadesEntregadas": 17,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 53,
+    "numeroLote": "L-2607B34",
+    "cantidad": 17
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-32d@12:10"
+ },
+ {
+  "idDetalleDeSalida": 21,
+  "salidaId": 5,
+  "insumoId": 5,
+  "unidadesPedidas": 10,
+  "unidadesEntregadas": 9,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 15,
+    "numeroLote": "L-2602P62",
+    "cantidad": 9
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-32d@12:10"
+ },
+ {
+  "idDetalleDeSalida": 22,
+  "salidaId": 5,
+  "insumoId": 29,
+  "unidadesPedidas": 19,
+  "unidadesEntregadas": 19,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 33,
+    "numeroLote": "L-2601H44",
+    "cantidad": 19
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-32d@12:10"
+ },
+ {
+  "idDetalleDeSalida": 23,
+  "salidaId": 6,
+  "insumoId": 21,
+  "unidadesPedidas": 16,
+  "unidadesEntregadas": 16,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 26,
+    "numeroLote": "L-2609A47",
+    "cantidad": 16
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-29d@08:10"
+ },
+ {
+  "idDetalleDeSalida": 24,
+  "salidaId": 6,
+  "insumoId": 3,
+  "unidadesPedidas": 18,
+  "unidadesEntregadas": 15,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 21,
+    "numeroLote": "L-2610V17",
+    "cantidad": 15
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-29d@08:10"
+ },
+ {
+  "idDetalleDeSalida": 25,
+  "salidaId": 6,
+  "insumoId": 29,
+  "unidadesPedidas": 32,
+  "unidadesEntregadas": 32,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 33,
+    "numeroLote": "L-2601H44",
+    "cantidad": 32
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-29d@08:10"
+ },
+ {
+  "idDetalleDeSalida": 26,
+  "salidaId": 6,
+  "insumoId": 22,
+  "unidadesPedidas": 37,
+  "unidadesEntregadas": 37,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 27,
+    "numeroLote": "L-2609B40",
+    "cantidad": 37
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-29d@08:10"
+ },
+ {
+  "idDetalleDeSalida": 27,
+  "salidaId": 7,
+  "insumoId": 29,
+  "unidadesPedidas": 60,
+  "unidadesEntregadas": 60,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 33,
+    "numeroLote": "L-2601H44",
+    "cantidad": 60
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-28d@09:10"
+ },
+ {
+  "idDetalleDeSalida": 28,
+  "salidaId": 7,
+  "insumoId": 20,
+  "unidadesPedidas": 10,
+  "unidadesEntregadas": 10,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 3,
+    "numeroLote": "L-2604D15",
+    "cantidad": 10
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-28d@09:10"
+ },
+ {
+  "idDetalleDeSalida": 29,
+  "salidaId": 7,
+  "insumoId": 2,
+  "unidadesPedidas": 15,
+  "unidadesEntregadas": 15,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 20,
+    "numeroLote": "L-2607U13",
+    "cantidad": 15
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-28d@09:10"
+ },
+ {
+  "idDetalleDeSalida": 30,
+  "salidaId": 8,
+  "insumoId": 6,
+  "unidadesPedidas": 11,
+  "unidadesEntregadas": 11,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 28,
+    "numeroLote": "L-2605C94",
+    "cantidad": 11
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-25d@10:10"
+ },
+ {
+  "idDetalleDeSalida": 31,
+  "salidaId": 8,
+  "insumoId": 18,
+  "unidadesPedidas": 46,
+  "unidadesEntregadas": 46,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 46
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-25d@10:10"
+ },
+ {
+  "idDetalleDeSalida": 32,
+  "salidaId": 9,
+  "insumoId": 9,
+  "unidadesPedidas": 16,
+  "unidadesEntregadas": 16,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 53,
+    "numeroLote": "L-2607B34",
+    "cantidad": 16
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-24d@11:10"
+ },
+ {
+  "idDetalleDeSalida": 33,
+  "salidaId": 9,
+  "insumoId": 29,
+  "unidadesPedidas": 46,
+  "unidadesEntregadas": 44,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 33,
+    "numeroLote": "L-2601H44",
+    "cantidad": 44
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-24d@11:10"
+ },
+ {
+  "idDetalleDeSalida": 34,
+  "salidaId": 9,
+  "insumoId": 10,
+  "unidadesPedidas": 17,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-24d@11:10"
+ },
+ {
+  "idDetalleDeSalida": 35,
+  "salidaId": 9,
+  "insumoId": 12,
+  "unidadesPedidas": 15,
+  "unidadesEntregadas": 15,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 19,
+    "numeroLote": "L-2606T87",
+    "cantidad": 15
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-24d@11:10"
+ },
+ {
+  "idDetalleDeSalida": 36,
+  "salidaId": 9,
+  "insumoId": 26,
+  "unidadesPedidas": 32,
+  "unidadesEntregadas": 32,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 13,
+    "numeroLote": "L-2611N47",
+    "cantidad": 32
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-24d@11:10"
+ },
+ {
+  "idDetalleDeSalida": 37,
+  "salidaId": 10,
+  "insumoId": 3,
+  "unidadesPedidas": 9,
+  "unidadesEntregadas": 9,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 21,
+    "numeroLote": "L-2610V17",
+    "cantidad": 9
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-21d@12:10"
+ },
+ {
+  "idDetalleDeSalida": 38,
+  "salidaId": 10,
+  "insumoId": 19,
+  "unidadesPedidas": 18,
+  "unidadesEntregadas": 18,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 32,
+    "numeroLote": "L-2607G38",
+    "cantidad": 18
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-21d@12:10"
+ },
+ {
+  "idDetalleDeSalida": 39,
+  "salidaId": 11,
+  "insumoId": 24,
+  "unidadesPedidas": 50,
+  "unidadesEntregadas": 50,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 9,
+    "numeroLote": "L-2612J17",
+    "cantidad": 50
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-20d@08:10"
+ },
+ {
+  "idDetalleDeSalida": 40,
+  "salidaId": 11,
+  "insumoId": 19,
+  "unidadesPedidas": 51,
+  "unidadesEntregadas": 51,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 32,
+    "numeroLote": "L-2607G38",
+    "cantidad": 51
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-20d@08:10"
+ },
+ {
+  "idDetalleDeSalida": 41,
+  "salidaId": 12,
+  "insumoId": 1,
+  "unidadesPedidas": 9,
+  "unidadesEntregadas": 7,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 4,
+    "numeroLote": "L-2604E68",
+    "cantidad": 7
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-17d@09:10"
+ },
+ {
+  "idDetalleDeSalida": 42,
+  "salidaId": 12,
+  "insumoId": 8,
+  "unidadesPedidas": 16,
+  "unidadesEntregadas": 16,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 10,
+    "numeroLote": "L-2601K96",
+    "cantidad": 16
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-17d@09:10"
+ },
+ {
+  "idDetalleDeSalida": 43,
+  "salidaId": 13,
+  "insumoId": 6,
+  "unidadesPedidas": 14,
+  "unidadesEntregadas": 14,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 28,
+    "numeroLote": "L-2605C94",
+    "cantidad": 14
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-16d@10:10"
+ },
+ {
+  "idDetalleDeSalida": 44,
+  "salidaId": 13,
+  "insumoId": 11,
+  "unidadesPedidas": 16,
+  "unidadesEntregadas": 15,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 6,
+    "numeroLote": "L-2603G29",
+    "cantidad": 15
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-16d@10:10"
+ },
+ {
+  "idDetalleDeSalida": 45,
+  "salidaId": 13,
+  "insumoId": 21,
+  "unidadesPedidas": 18,
+  "unidadesEntregadas": 18,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 26,
+    "numeroLote": "L-2609A47",
+    "cantidad": 18
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-16d@10:10"
+ },
+ {
+  "idDetalleDeSalida": 46,
+  "salidaId": 14,
+  "insumoId": 20,
+  "unidadesPedidas": 60,
+  "unidadesEntregadas": 60,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 3,
+    "numeroLote": "L-2604D15",
+    "cantidad": 60
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-13d@11:10"
+ },
+ {
+  "idDetalleDeSalida": 47,
+  "salidaId": 14,
+  "insumoId": 26,
+  "unidadesPedidas": 48,
+  "unidadesEntregadas": 48,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 13,
+    "numeroLote": "L-2611N47",
+    "cantidad": 48
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-13d@11:10"
+ },
+ {
+  "idDetalleDeSalida": 48,
+  "salidaId": 14,
+  "insumoId": 19,
+  "unidadesPedidas": 60,
+  "unidadesEntregadas": 60,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 32,
+    "numeroLote": "L-2607G38",
+    "cantidad": 60
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-13d@11:10"
+ },
+ {
+  "idDetalleDeSalida": 49,
+  "salidaId": 14,
+  "insumoId": 29,
+  "unidadesPedidas": 41,
+  "unidadesEntregadas": 41,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 33,
+    "numeroLote": "L-2601H44",
+    "cantidad": 41
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-13d@11:10"
+ },
+ {
+  "idDetalleDeSalida": 50,
+  "salidaId": 15,
+  "insumoId": 3,
+  "unidadesPedidas": 6,
+  "unidadesEntregadas": 6,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 21,
+    "numeroLote": "L-2610V17",
+    "cantidad": 6
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-12d@12:10"
+ },
+ {
+  "idDetalleDeSalida": 51,
+  "salidaId": 15,
+  "insumoId": 22,
+  "unidadesPedidas": 30,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-12d@12:10"
+ },
+ {
+  "idDetalleDeSalida": 52,
+  "salidaId": 16,
+  "insumoId": 22,
+  "unidadesPedidas": 50,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-9d@08:10"
+ },
+ {
+  "idDetalleDeSalida": 53,
+  "salidaId": 16,
+  "insumoId": 28,
+  "unidadesPedidas": 27,
+  "unidadesEntregadas": 27,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 34,
+    "numeroLote": "L-2603I14",
+    "cantidad": 27
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-9d@08:10"
+ },
+ {
+  "idDetalleDeSalida": 54,
+  "salidaId": 16,
+  "insumoId": 18,
+  "unidadesPedidas": 41,
+  "unidadesEntregadas": 38,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 38
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-9d@08:10"
+ },
+ {
+  "idDetalleDeSalida": 55,
+  "salidaId": 16,
+  "insumoId": 2,
+  "unidadesPedidas": 6,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 20,
+    "numeroLote": "L-2607U13",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-9d@08:10"
+ },
+ {
+  "idDetalleDeSalida": 56,
+  "salidaId": 17,
+  "insumoId": 18,
+  "unidadesPedidas": 40,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "+0d@07:50"
+ },
+ {
+  "idDetalleDeSalida": 57,
+  "salidaId": 17,
+  "insumoId": 24,
+  "unidadesPedidas": 60,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "+0d@07:50"
+ },
+ {
+  "idDetalleDeSalida": 58,
+  "salidaId": 17,
+  "insumoId": 11,
+  "unidadesPedidas": 10,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "+0d@07:50"
+ },
+ {
+  "idDetalleDeSalida": 59,
+  "salidaId": 18,
+  "insumoId": 20,
+  "unidadesPedidas": 50,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-1d@15:20"
+ },
+ {
+  "idDetalleDeSalida": 60,
+  "salidaId": 18,
+  "insumoId": 23,
+  "unidadesPedidas": 100,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-1d@15:20"
+ },
+ {
+  "idDetalleDeSalida": 61,
+  "salidaId": 19,
+  "insumoId": 26,
+  "unidadesPedidas": 12,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "+0d@09:05"
+ },
+ {
+  "idDetalleDeSalida": 62,
+  "salidaId": 19,
+  "insumoId": 14,
+  "unidadesPedidas": 24,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "+0d@09:05"
+ },
+ {
+  "idDetalleDeSalida": 63,
+  "salidaId": 20,
+  "insumoId": 19,
+  "unidadesPedidas": 30,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": null,
+  "observaciones": null,
+  "createdAt": "-9d@10:00"
+ },
+ {
+  "idDetalleDeSalida": 64,
+  "salidaId": 21,
+  "insumoId": 1,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 4,
+    "numeroLote": "L-2604E68",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 1,
+  "observaciones": "Dosis cada 8 hs",
+  "createdAt": "-6d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 65,
+  "salidaId": 21,
+  "insumoId": 5,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 15,
+    "numeroLote": "L-2602P62",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 1,
+  "observaciones": null,
+  "createdAt": "-6d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 66,
+  "salidaId": 21,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 1,
+  "observaciones": null,
+  "createdAt": "-6d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 67,
+  "salidaId": 21,
+  "insumoId": 8,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 36,
+    "numeroLote": "L-2605K99",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 2,
+  "observaciones": null,
+  "createdAt": "-6d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 68,
+  "salidaId": 21,
+  "insumoId": 3,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 21,
+    "numeroLote": "L-2610V17",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 2,
+  "observaciones": null,
+  "createdAt": "-6d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 69,
+  "salidaId": 21,
+  "insumoId": 8,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 36,
+    "numeroLote": "L-2605K99",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 3,
+  "observaciones": null,
+  "createdAt": "-6d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 70,
+  "salidaId": 21,
+  "insumoId": 10,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 37,
+    "numeroLote": "L-2612L74",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 3,
+  "observaciones": null,
+  "createdAt": "-6d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 71,
+  "salidaId": 21,
+  "insumoId": 1,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 4,
+    "numeroLote": "L-2604E68",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 3,
+  "observaciones": null,
+  "createdAt": "-6d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 72,
+  "salidaId": 21,
+  "insumoId": 7,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 5,
+    "numeroLote": "L-2610F57",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 15,
+  "observaciones": null,
+  "createdAt": "-6d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 73,
+  "salidaId": 21,
+  "insumoId": 3,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 21,
+    "numeroLote": "L-2610V17",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 15,
+  "observaciones": null,
+  "createdAt": "-6d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 74,
+  "salidaId": 21,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 15,
+  "observaciones": null,
+  "createdAt": "-6d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 75,
+  "salidaId": 22,
+  "insumoId": 11,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 6,
+    "numeroLote": "L-2603G29",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 5,
+  "observaciones": "Dosis cada 8 hs",
+  "createdAt": "-6d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 76,
+  "salidaId": 22,
+  "insumoId": 10,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 37,
+    "numeroLote": "L-2612L74",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 5,
+  "observaciones": null,
+  "createdAt": "-6d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 77,
+  "salidaId": 22,
+  "insumoId": 7,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 5,
+    "numeroLote": "L-2610F57",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 5,
+  "observaciones": null,
+  "createdAt": "-6d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 78,
+  "salidaId": 22,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 5,
+  "observaciones": null,
+  "createdAt": "-6d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 79,
+  "salidaId": 22,
+  "insumoId": 12,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 19,
+    "numeroLote": "L-2606T87",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 16,
+  "observaciones": null,
+  "createdAt": "-6d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 80,
+  "salidaId": 22,
+  "insumoId": 1,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 4,
+    "numeroLote": "L-2604E68",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 16,
+  "observaciones": null,
+  "createdAt": "-6d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 81,
+  "salidaId": 23,
+  "insumoId": 10,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 37,
+    "numeroLote": "L-2612L74",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 8,
+  "observaciones": "Dosis cada 8 hs",
+  "createdAt": "-6d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 82,
+  "salidaId": 23,
+  "insumoId": 5,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 15,
+    "numeroLote": "L-2602P62",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 8,
+  "observaciones": null,
+  "createdAt": "-6d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 83,
+  "salidaId": 23,
+  "insumoId": 8,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 36,
+    "numeroLote": "L-2605K99",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 9,
+  "observaciones": null,
+  "createdAt": "-6d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 84,
+  "salidaId": 23,
+  "insumoId": 2,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 20,
+    "numeroLote": "L-2607U13",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 9,
+  "observaciones": null,
+  "createdAt": "-6d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 85,
+  "salidaId": 23,
+  "insumoId": 5,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 15,
+    "numeroLote": "L-2602P62",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 9,
+  "observaciones": null,
+  "createdAt": "-6d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 86,
+  "salidaId": 23,
+  "insumoId": 11,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 6,
+    "numeroLote": "L-2603G29",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 18,
+  "observaciones": null,
+  "createdAt": "-6d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 87,
+  "salidaId": 23,
+  "insumoId": 4,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 45,
+    "numeroLote": "L-2604T65",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 18,
+  "observaciones": null,
+  "createdAt": "-6d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 88,
+  "salidaId": 23,
+  "insumoId": 1,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 4,
+    "numeroLote": "L-2604E68",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 18,
+  "observaciones": null,
+  "createdAt": "-6d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 89,
+  "salidaId": 23,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 18,
+  "observaciones": null,
+  "createdAt": "-6d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 90,
+  "salidaId": 24,
+  "insumoId": 1,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 4,
+    "numeroLote": "L-2604E68",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 1,
+  "observaciones": "Dosis cada 8 hs",
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 91,
+  "salidaId": 24,
+  "insumoId": 5,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 15,
+    "numeroLote": "L-2602P62",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 1,
+  "observaciones": null,
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 92,
+  "salidaId": 24,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 1,
+  "observaciones": null,
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 93,
+  "salidaId": 24,
+  "insumoId": 8,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 36,
+    "numeroLote": "L-2605K99",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 2,
+  "observaciones": null,
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 94,
+  "salidaId": 24,
+  "insumoId": 3,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 21,
+    "numeroLote": "L-2610V17",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 2,
+  "observaciones": null,
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 95,
+  "salidaId": 24,
+  "insumoId": 8,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 36,
+    "numeroLote": "L-2605K99",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 3,
+  "observaciones": null,
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 96,
+  "salidaId": 24,
+  "insumoId": 10,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 37,
+    "numeroLote": "L-2612L74",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 3,
+  "observaciones": null,
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 97,
+  "salidaId": 24,
+  "insumoId": 1,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 4,
+    "numeroLote": "L-2604E68",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 3,
+  "observaciones": null,
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 98,
+  "salidaId": 24,
+  "insumoId": 7,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 5,
+    "numeroLote": "L-2610F57",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 15,
+  "observaciones": null,
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 99,
+  "salidaId": 24,
+  "insumoId": 3,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 21,
+    "numeroLote": "L-2610V17",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 15,
+  "observaciones": null,
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 100,
+  "salidaId": 24,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 15,
+  "observaciones": null,
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 101,
+  "salidaId": 25,
+  "insumoId": 11,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 6,
+    "numeroLote": "L-2603G29",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 5,
+  "observaciones": "Dosis cada 8 hs",
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 102,
+  "salidaId": 25,
+  "insumoId": 10,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 37,
+    "numeroLote": "L-2612L74",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 5,
+  "observaciones": null,
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 103,
+  "salidaId": 25,
+  "insumoId": 7,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 5,
+    "numeroLote": "L-2610F57",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 5,
+  "observaciones": null,
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 104,
+  "salidaId": 25,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 5,
+  "observaciones": null,
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 105,
+  "salidaId": 25,
+  "insumoId": 10,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 37,
+    "numeroLote": "L-2612L74",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 6,
+  "observaciones": null,
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 106,
+  "salidaId": 25,
+  "insumoId": 12,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 19,
+    "numeroLote": "L-2606T87",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 6,
+  "observaciones": null,
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 107,
+  "salidaId": 25,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 6,
+  "observaciones": null,
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 108,
+  "salidaId": 25,
+  "insumoId": 12,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 19,
+    "numeroLote": "L-2606T87",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 16,
+  "observaciones": null,
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 109,
+  "salidaId": 25,
+  "insumoId": 1,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 4,
+    "numeroLote": "L-2604E68",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 16,
+  "observaciones": null,
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 110,
+  "salidaId": 26,
+  "insumoId": 10,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 37,
+    "numeroLote": "L-2612L74",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 8,
+  "observaciones": "Dosis cada 8 hs",
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 111,
+  "salidaId": 26,
+  "insumoId": 5,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 15,
+    "numeroLote": "L-2602P62",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 8,
+  "observaciones": null,
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 112,
+  "salidaId": 26,
+  "insumoId": 8,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 36,
+    "numeroLote": "L-2605K99",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 9,
+  "observaciones": null,
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 113,
+  "salidaId": 26,
+  "insumoId": 2,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 20,
+    "numeroLote": "L-2607U13",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 9,
+  "observaciones": null,
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 114,
+  "salidaId": 26,
+  "insumoId": 5,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 15,
+    "numeroLote": "L-2602P62",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 9,
+  "observaciones": null,
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 115,
+  "salidaId": 26,
+  "insumoId": 11,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 6,
+    "numeroLote": "L-2603G29",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 18,
+  "observaciones": null,
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 116,
+  "salidaId": 26,
+  "insumoId": 4,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 45,
+    "numeroLote": "L-2604T65",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 18,
+  "observaciones": null,
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 117,
+  "salidaId": 26,
+  "insumoId": 1,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 4,
+    "numeroLote": "L-2604E68",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 18,
+  "observaciones": null,
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 118,
+  "salidaId": 26,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 18,
+  "observaciones": null,
+  "createdAt": "-5d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 119,
+  "salidaId": 27,
+  "insumoId": 1,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 4,
+    "numeroLote": "L-2604E68",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 1,
+  "observaciones": "Dosis cada 8 hs",
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 120,
+  "salidaId": 27,
+  "insumoId": 5,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 15,
+    "numeroLote": "L-2602P62",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 1,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 121,
+  "salidaId": 27,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 1,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 122,
+  "salidaId": 27,
+  "insumoId": 8,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 36,
+    "numeroLote": "L-2605K99",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 2,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 123,
+  "salidaId": 27,
+  "insumoId": 3,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 21,
+    "numeroLote": "L-2610V17",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 2,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 124,
+  "salidaId": 27,
+  "insumoId": 8,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 36,
+    "numeroLote": "L-2605K99",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 3,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 125,
+  "salidaId": 27,
+  "insumoId": 10,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 37,
+    "numeroLote": "L-2612L74",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 3,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 126,
+  "salidaId": 27,
+  "insumoId": 1,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 4,
+    "numeroLote": "L-2604E68",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 3,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 127,
+  "salidaId": 27,
+  "insumoId": 11,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 6,
+    "numeroLote": "L-2603G29",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 4,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 128,
+  "salidaId": 27,
+  "insumoId": 10,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 37,
+    "numeroLote": "L-2612L74",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 4,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 129,
+  "salidaId": 27,
+  "insumoId": 12,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 19,
+    "numeroLote": "L-2606T87",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 4,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 130,
+  "salidaId": 27,
+  "insumoId": 7,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 5,
+    "numeroLote": "L-2610F57",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 15,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 131,
+  "salidaId": 27,
+  "insumoId": 3,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 21,
+    "numeroLote": "L-2610V17",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 15,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 132,
+  "salidaId": 27,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 15,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 133,
+  "salidaId": 28,
+  "insumoId": 11,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 6,
+    "numeroLote": "L-2603G29",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 5,
+  "observaciones": "Dosis cada 8 hs",
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 134,
+  "salidaId": 28,
+  "insumoId": 10,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 37,
+    "numeroLote": "L-2612L74",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 5,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 135,
+  "salidaId": 28,
+  "insumoId": 7,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 5,
+    "numeroLote": "L-2610F57",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 5,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 136,
+  "salidaId": 28,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 5,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 137,
+  "salidaId": 28,
+  "insumoId": 10,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 37,
+    "numeroLote": "L-2612L74",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 6,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 138,
+  "salidaId": 28,
+  "insumoId": 12,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 19,
+    "numeroLote": "L-2606T87",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 6,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 139,
+  "salidaId": 28,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 6,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 140,
+  "salidaId": 28,
+  "insumoId": 12,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 19,
+    "numeroLote": "L-2606T87",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 16,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 141,
+  "salidaId": 28,
+  "insumoId": 1,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 4,
+    "numeroLote": "L-2604E68",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 16,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 142,
+  "salidaId": 29,
+  "insumoId": 10,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 37,
+    "numeroLote": "L-2612L74",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 8,
+  "observaciones": "Dosis cada 8 hs",
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 143,
+  "salidaId": 29,
+  "insumoId": 5,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 15,
+    "numeroLote": "L-2602P62",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 8,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 144,
+  "salidaId": 29,
+  "insumoId": 8,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 36,
+    "numeroLote": "L-2605K99",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 9,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 145,
+  "salidaId": 29,
+  "insumoId": 2,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 20,
+    "numeroLote": "L-2607U13",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 9,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 146,
+  "salidaId": 29,
+  "insumoId": 5,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 15,
+    "numeroLote": "L-2602P62",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 9,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 147,
+  "salidaId": 29,
+  "insumoId": 11,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 6,
+    "numeroLote": "L-2603G29",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 18,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 148,
+  "salidaId": 29,
+  "insumoId": 4,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 45,
+    "numeroLote": "L-2604T65",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 18,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 149,
+  "salidaId": 29,
+  "insumoId": 1,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 4,
+    "numeroLote": "L-2604E68",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 18,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 150,
+  "salidaId": 29,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 18,
+  "observaciones": null,
+  "createdAt": "-4d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 151,
+  "salidaId": 30,
+  "insumoId": 1,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 4,
+    "numeroLote": "L-2604E68",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 1,
+  "observaciones": "Dosis cada 8 hs",
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 152,
+  "salidaId": 30,
+  "insumoId": 5,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 15,
+    "numeroLote": "L-2602P62",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 1,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 153,
+  "salidaId": 30,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 1,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 154,
+  "salidaId": 30,
+  "insumoId": 8,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 36,
+    "numeroLote": "L-2605K99",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 2,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 155,
+  "salidaId": 30,
+  "insumoId": 3,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 21,
+    "numeroLote": "L-2610V17",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 2,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 156,
+  "salidaId": 30,
+  "insumoId": 8,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 36,
+    "numeroLote": "L-2605K99",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 3,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 157,
+  "salidaId": 30,
+  "insumoId": 10,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 37,
+    "numeroLote": "L-2612L74",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 3,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 158,
+  "salidaId": 30,
+  "insumoId": 1,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 4,
+    "numeroLote": "L-2604E68",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 3,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 159,
+  "salidaId": 30,
+  "insumoId": 11,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 6,
+    "numeroLote": "L-2603G29",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 4,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 160,
+  "salidaId": 30,
+  "insumoId": 10,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 37,
+    "numeroLote": "L-2612L74",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 4,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 161,
+  "salidaId": 30,
+  "insumoId": 12,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 19,
+    "numeroLote": "L-2606T87",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 4,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 162,
+  "salidaId": 30,
+  "insumoId": 7,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 5,
+    "numeroLote": "L-2610F57",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 15,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 163,
+  "salidaId": 30,
+  "insumoId": 3,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 21,
+    "numeroLote": "L-2610V17",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 15,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 164,
+  "salidaId": 30,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 15,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 165,
+  "salidaId": 31,
+  "insumoId": 11,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 6,
+    "numeroLote": "L-2603G29",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 5,
+  "observaciones": "Dosis cada 8 hs",
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 166,
+  "salidaId": 31,
+  "insumoId": 10,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 37,
+    "numeroLote": "L-2612L74",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 5,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 167,
+  "salidaId": 31,
+  "insumoId": 7,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 5,
+    "numeroLote": "L-2610F57",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 5,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 168,
+  "salidaId": 31,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 5,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 169,
+  "salidaId": 31,
+  "insumoId": 10,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 37,
+    "numeroLote": "L-2612L74",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 6,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 170,
+  "salidaId": 31,
+  "insumoId": 12,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 19,
+    "numeroLote": "L-2606T87",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 6,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 171,
+  "salidaId": 31,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 6,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 172,
+  "salidaId": 31,
+  "insumoId": 7,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 5,
+    "numeroLote": "L-2610F57",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 7,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 173,
+  "salidaId": 31,
+  "insumoId": 8,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 36,
+    "numeroLote": "L-2605K99",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 7,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 174,
+  "salidaId": 31,
+  "insumoId": 12,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 19,
+    "numeroLote": "L-2606T87",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 16,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 175,
+  "salidaId": 31,
+  "insumoId": 1,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 4,
+    "numeroLote": "L-2604E68",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 16,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 176,
+  "salidaId": 32,
+  "insumoId": 10,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 37,
+    "numeroLote": "L-2612L74",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 8,
+  "observaciones": "Dosis cada 8 hs",
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 177,
+  "salidaId": 32,
+  "insumoId": 5,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 15,
+    "numeroLote": "L-2602P62",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 8,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 178,
+  "salidaId": 32,
+  "insumoId": 8,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 36,
+    "numeroLote": "L-2605K99",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 9,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 179,
+  "salidaId": 32,
+  "insumoId": 2,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 20,
+    "numeroLote": "L-2607U13",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 9,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 180,
+  "salidaId": 32,
+  "insumoId": 5,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 15,
+    "numeroLote": "L-2602P62",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 9,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 181,
+  "salidaId": 32,
+  "insumoId": 11,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 6,
+    "numeroLote": "L-2603G29",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 18,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 182,
+  "salidaId": 32,
+  "insumoId": 4,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 45,
+    "numeroLote": "L-2604T65",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 18,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 183,
+  "salidaId": 32,
+  "insumoId": 1,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 4,
+    "numeroLote": "L-2604E68",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 18,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 184,
+  "salidaId": 32,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 18,
+  "observaciones": null,
+  "createdAt": "-3d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 185,
+  "salidaId": 33,
+  "insumoId": 1,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 4,
+    "numeroLote": "L-2604E68",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 1,
+  "observaciones": "Dosis cada 8 hs",
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 186,
+  "salidaId": 33,
+  "insumoId": 5,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 15,
+    "numeroLote": "L-2602P62",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 1,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 187,
+  "salidaId": 33,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 1,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 188,
+  "salidaId": 33,
+  "insumoId": 8,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 36,
+    "numeroLote": "L-2605K99",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 2,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 189,
+  "salidaId": 33,
+  "insumoId": 3,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 21,
+    "numeroLote": "L-2610V17",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 2,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 190,
+  "salidaId": 33,
+  "insumoId": 8,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 36,
+    "numeroLote": "L-2605K99",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 3,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 191,
+  "salidaId": 33,
+  "insumoId": 10,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 37,
+    "numeroLote": "L-2612L74",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 3,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 192,
+  "salidaId": 33,
+  "insumoId": 1,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 4,
+    "numeroLote": "L-2604E68",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 3,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 193,
+  "salidaId": 33,
+  "insumoId": 8,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 36,
+    "numeroLote": "L-2605K99",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 14,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 194,
+  "salidaId": 33,
+  "insumoId": 11,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 6,
+    "numeroLote": "L-2603G29",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 14,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 195,
+  "salidaId": 33,
+  "insumoId": 7,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 5,
+    "numeroLote": "L-2610F57",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 15,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 196,
+  "salidaId": 33,
+  "insumoId": 3,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 21,
+    "numeroLote": "L-2610V17",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 15,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 197,
+  "salidaId": 33,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 15,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 198,
+  "salidaId": 34,
+  "insumoId": 11,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 6,
+    "numeroLote": "L-2603G29",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 5,
+  "observaciones": "Dosis cada 8 hs",
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 199,
+  "salidaId": 34,
+  "insumoId": 10,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 37,
+    "numeroLote": "L-2612L74",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 5,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 200,
+  "salidaId": 34,
+  "insumoId": 7,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 5,
+    "numeroLote": "L-2610F57",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 5,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 201,
+  "salidaId": 34,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 5,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 202,
+  "salidaId": 34,
+  "insumoId": 10,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 37,
+    "numeroLote": "L-2612L74",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 6,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 203,
+  "salidaId": 34,
+  "insumoId": 12,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 19,
+    "numeroLote": "L-2606T87",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 6,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 204,
+  "salidaId": 34,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 6,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 205,
+  "salidaId": 34,
+  "insumoId": 7,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 5,
+    "numeroLote": "L-2610F57",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 7,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 206,
+  "salidaId": 34,
+  "insumoId": 8,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 36,
+    "numeroLote": "L-2605K99",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 7,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 207,
+  "salidaId": 35,
+  "insumoId": 10,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 37,
+    "numeroLote": "L-2612L74",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 8,
+  "observaciones": "Dosis cada 8 hs",
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 208,
+  "salidaId": 35,
+  "insumoId": 5,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 15,
+    "numeroLote": "L-2602P62",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 8,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 209,
+  "salidaId": 35,
+  "insumoId": 8,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 36,
+    "numeroLote": "L-2605K99",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 9,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 210,
+  "salidaId": 35,
+  "insumoId": 2,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 20,
+    "numeroLote": "L-2607U13",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 9,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 211,
+  "salidaId": 35,
+  "insumoId": 5,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 15,
+    "numeroLote": "L-2602P62",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 9,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 212,
+  "salidaId": 35,
+  "insumoId": 3,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 21,
+    "numeroLote": "L-2610V17",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 10,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 213,
+  "salidaId": 35,
+  "insumoId": 9,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 10,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 214,
+  "salidaId": 35,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 10,
+  "observaciones": null,
+  "createdAt": "-2d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 215,
+  "salidaId": 36,
+  "insumoId": 1,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 4,
+    "numeroLote": "L-2604E68",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 1,
+  "observaciones": "Dosis cada 8 hs",
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 216,
+  "salidaId": 36,
+  "insumoId": 5,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 15,
+    "numeroLote": "L-2602P62",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 1,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 217,
+  "salidaId": 36,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 1,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 218,
+  "salidaId": 36,
+  "insumoId": 8,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 36,
+    "numeroLote": "L-2605K99",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 2,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 219,
+  "salidaId": 36,
+  "insumoId": 3,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 21,
+    "numeroLote": "L-2610V17",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 2,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 220,
+  "salidaId": 36,
+  "insumoId": 8,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 36,
+    "numeroLote": "L-2605K99",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 3,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 221,
+  "salidaId": 36,
+  "insumoId": 10,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 37,
+    "numeroLote": "L-2612L74",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 3,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 222,
+  "salidaId": 36,
+  "insumoId": 1,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 4,
+    "numeroLote": "L-2604E68",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 3,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 223,
+  "salidaId": 36,
+  "insumoId": 11,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 6,
+    "numeroLote": "L-2603G29",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 4,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 224,
+  "salidaId": 36,
+  "insumoId": 10,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 37,
+    "numeroLote": "L-2612L74",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 4,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 225,
+  "salidaId": 36,
+  "insumoId": 12,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 19,
+    "numeroLote": "L-2606T87",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 4,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 226,
+  "salidaId": 36,
+  "insumoId": 8,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 36,
+    "numeroLote": "L-2605K99",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 14,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 227,
+  "salidaId": 36,
+  "insumoId": 11,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 6,
+    "numeroLote": "L-2603G29",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 14,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 228,
+  "salidaId": 36,
+  "insumoId": 7,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 5,
+    "numeroLote": "L-2610F57",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 15,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 229,
+  "salidaId": 36,
+  "insumoId": 3,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 21,
+    "numeroLote": "L-2610V17",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 15,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 230,
+  "salidaId": 36,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 15,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 231,
+  "salidaId": 37,
+  "insumoId": 11,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 6,
+    "numeroLote": "L-2603G29",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 5,
+  "observaciones": "Dosis cada 8 hs",
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 232,
+  "salidaId": 37,
+  "insumoId": 10,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 37,
+    "numeroLote": "L-2612L74",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 5,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 233,
+  "salidaId": 37,
+  "insumoId": 7,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 5,
+    "numeroLote": "L-2610F57",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 5,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 234,
+  "salidaId": 37,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 5,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 235,
+  "salidaId": 37,
+  "insumoId": 10,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 37,
+    "numeroLote": "L-2612L74",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 6,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 236,
+  "salidaId": 37,
+  "insumoId": 12,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 19,
+    "numeroLote": "L-2606T87",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 6,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 237,
+  "salidaId": 37,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 6,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 238,
+  "salidaId": 37,
+  "insumoId": 7,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 5,
+    "numeroLote": "L-2610F57",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 7,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 239,
+  "salidaId": 37,
+  "insumoId": 8,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 36,
+    "numeroLote": "L-2605K99",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 7,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 240,
+  "salidaId": 37,
+  "insumoId": 12,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 19,
+    "numeroLote": "L-2606T87",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 16,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 241,
+  "salidaId": 37,
+  "insumoId": 1,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 4,
+    "numeroLote": "L-2604E68",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 16,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 242,
+  "salidaId": 38,
+  "insumoId": 10,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 3,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 37,
+    "numeroLote": "L-2612L74",
+    "cantidad": 3
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 8,
+  "observaciones": "Dosis cada 8 hs",
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 243,
+  "salidaId": 38,
+  "insumoId": 5,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 15,
+    "numeroLote": "L-2602P62",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 8,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 244,
+  "salidaId": 38,
+  "insumoId": 8,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 36,
+    "numeroLote": "L-2605K99",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 9,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 245,
+  "salidaId": 38,
+  "insumoId": 2,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 20,
+    "numeroLote": "L-2607U13",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 9,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 246,
+  "salidaId": 38,
+  "insumoId": 5,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 15,
+    "numeroLote": "L-2602P62",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 9,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 247,
+  "salidaId": 38,
+  "insumoId": 3,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 21,
+    "numeroLote": "L-2610V17",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 10,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 248,
+  "salidaId": 38,
+  "insumoId": 9,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 10,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 249,
+  "salidaId": 38,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 10,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 250,
+  "salidaId": 38,
+  "insumoId": 11,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 6,
+    "numeroLote": "L-2603G29",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 18,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 251,
+  "salidaId": 38,
+  "insumoId": 4,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 1,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 45,
+    "numeroLote": "L-2604T65",
+    "cantidad": 1
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 18,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 252,
+  "salidaId": 38,
+  "insumoId": 1,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 4,
+    "numeroLote": "L-2604E68",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 18,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 253,
+  "salidaId": 38,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 2,
+  "lotesConsumidos": [
+   {
+    "idDetalleIngreso": 24,
+    "numeroLote": "L-2602Y79",
+    "cantidad": 2
+   }
+  ],
+  "confirmarUnidadesEntregadas": false,
+  "internacionId": 18,
+  "observaciones": null,
+  "createdAt": "-1d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 254,
+  "salidaId": 39,
+  "insumoId": 11,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": 5,
+  "observaciones": "Dosis cada 8 hs",
+  "createdAt": "+0d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 255,
+  "salidaId": 39,
+  "insumoId": 10,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": 5,
+  "observaciones": null,
+  "createdAt": "+0d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 256,
+  "salidaId": 39,
+  "insumoId": 7,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": 5,
+  "observaciones": null,
+  "createdAt": "+0d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 257,
+  "salidaId": 39,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": 5,
+  "observaciones": null,
+  "createdAt": "+0d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 258,
+  "salidaId": 39,
+  "insumoId": 10,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": 6,
+  "observaciones": null,
+  "createdAt": "+0d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 259,
+  "salidaId": 39,
+  "insumoId": 12,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": 6,
+  "observaciones": null,
+  "createdAt": "+0d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 260,
+  "salidaId": 39,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": 6,
+  "observaciones": null,
+  "createdAt": "+0d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 261,
+  "salidaId": 39,
+  "insumoId": 7,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": 7,
+  "observaciones": null,
+  "createdAt": "+0d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 262,
+  "salidaId": 39,
+  "insumoId": 8,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": 7,
+  "observaciones": null,
+  "createdAt": "+0d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 263,
+  "salidaId": 39,
+  "insumoId": 12,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": 16,
+  "observaciones": null,
+  "createdAt": "+0d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 264,
+  "salidaId": 39,
+  "insumoId": 1,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": 16,
+  "observaciones": null,
+  "createdAt": "+0d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 265,
+  "salidaId": 40,
+  "insumoId": 10,
+  "unidadesPedidas": 3,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": 8,
+  "observaciones": "Dosis cada 8 hs",
+  "createdAt": "+0d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 266,
+  "salidaId": 40,
+  "insumoId": 5,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": 8,
+  "observaciones": null,
+  "createdAt": "+0d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 267,
+  "salidaId": 40,
+  "insumoId": 8,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": 9,
+  "observaciones": null,
+  "createdAt": "+0d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 268,
+  "salidaId": 40,
+  "insumoId": 2,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": 9,
+  "observaciones": null,
+  "createdAt": "+0d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 269,
+  "salidaId": 40,
+  "insumoId": 5,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": 9,
+  "observaciones": null,
+  "createdAt": "+0d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 270,
+  "salidaId": 40,
+  "insumoId": 3,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": 10,
+  "observaciones": null,
+  "createdAt": "+0d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 271,
+  "salidaId": 40,
+  "insumoId": 9,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": 10,
+  "observaciones": null,
+  "createdAt": "+0d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 272,
+  "salidaId": 40,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": 10,
+  "observaciones": null,
+  "createdAt": "+0d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 273,
+  "salidaId": 40,
+  "insumoId": 11,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": 18,
+  "observaciones": null,
+  "createdAt": "+0d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 274,
+  "salidaId": 40,
+  "insumoId": 4,
+  "unidadesPedidas": 1,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": 18,
+  "observaciones": null,
+  "createdAt": "+0d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 275,
+  "salidaId": 40,
+  "insumoId": 1,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": 18,
+  "observaciones": null,
+  "createdAt": "+0d@07:30"
+ },
+ {
+  "idDetalleDeSalida": 276,
+  "salidaId": 40,
+  "insumoId": 18,
+  "unidadesPedidas": 2,
+  "unidadesEntregadas": 0,
+  "lotesConsumidos": [],
+  "confirmarUnidadesEntregadas": true,
+  "internacionId": 18,
+  "observaciones": null,
+  "createdAt": "+0d@07:30"
+ }
+]

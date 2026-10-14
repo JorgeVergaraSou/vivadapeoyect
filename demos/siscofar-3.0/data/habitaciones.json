@@ -1,0 +1,68 @@
+[
+ {
+  "idHabitacion": 1,
+  "nombre": "Habitación 1",
+  "servicioId": 1,
+  "deletedAt": null
+ },
+ {
+  "idHabitacion": 2,
+  "nombre": "Habitación 2",
+  "servicioId": 1,
+  "deletedAt": null
+ },
+ {
+  "idHabitacion": 3,
+  "nombre": "Habitación 3",
+  "servicioId": 1,
+  "deletedAt": null
+ },
+ {
+  "idHabitacion": 4,
+  "nombre": "Habitación 11",
+  "servicioId": 2,
+  "deletedAt": null
+ },
+ {
+  "idHabitacion": 5,
+  "nombre": "Habitación 12",
+  "servicioId": 2,
+  "deletedAt": null
+ },
+ {
+  "idHabitacion": 6,
+  "nombre": "Box 1",
+  "servicioId": 3,
+  "deletedAt": null
+ },
+ {
+  "idHabitacion": 7,
+  "nombre": "Box 2",
+  "servicioId": 3,
+  "deletedAt": null
+ },
+ {
+  "idHabitacion": 8,
+  "nombre": "Sala 1",
+  "servicioId": 4,
+  "deletedAt": null
+ },
+ {
+  "idHabitacion": 9,
+  "nombre": "Sala 2",
+  "servicioId": 4,
+  "deletedAt": null
+ },
+ {
+  "idHabitacion": 10,
+  "nombre": "Habitación 21",
+  "servicioId": 5,
+  "deletedAt": null
+ },
+ {
+  "idHabitacion": 11,
+  "nombre": "Habitación 22",
+  "servicioId": 5,
+  "deletedAt": null
+ }
+]

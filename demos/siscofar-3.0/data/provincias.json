@@ -1,0 +1,98 @@
+[
+ {
+  "idProvincia": 1,
+  "nameProvincia": "Buenos Aires"
+ },
+ {
+  "idProvincia": 2,
+  "nameProvincia": "Ciudad Autónoma de Buenos Aires"
+ },
+ {
+  "idProvincia": 3,
+  "nameProvincia": "Catamarca"
+ },
+ {
+  "idProvincia": 4,
+  "nameProvincia": "Chaco"
+ },
+ {
+  "idProvincia": 5,
+  "nameProvincia": "Chubut"
+ },
+ {
+  "idProvincia": 6,
+  "nameProvincia": "Córdoba"
+ },
+ {
+  "idProvincia": 7,
+  "nameProvincia": "Corrientes"
+ },
+ {
+  "idProvincia": 8,
+  "nameProvincia": "Entre Ríos"
+ },
+ {
+  "idProvincia": 9,
+  "nameProvincia": "Formosa"
+ },
+ {
+  "idProvincia": 10,
+  "nameProvincia": "Jujuy"
+ },
+ {
+  "idProvincia": 11,
+  "nameProvincia": "La Pampa"
+ },
+ {
+  "idProvincia": 12,
+  "nameProvincia": "La Rioja"
+ },
+ {
+  "idProvincia": 13,
+  "nameProvincia": "Mendoza"
+ },
+ {
+  "idProvincia": 14,
+  "nameProvincia": "Misiones"
+ },
+ {
+  "idProvincia": 15,
+  "nameProvincia": "Neuquén"
+ },
+ {
+  "idProvincia": 16,
+  "nameProvincia": "Río Negro"
+ },
+ {
+  "idProvincia": 17,
+  "nameProvincia": "Salta"
+ },
+ {
+  "idProvincia": 18,
+  "nameProvincia": "San Juan"
+ },
+ {
+  "idProvincia": 19,
+  "nameProvincia": "San Luis"
+ },
+ {
+  "idProvincia": 20,
+  "nameProvincia": "Santa Cruz"
+ },
+ {
+  "idProvincia": 21,
+  "nameProvincia": "Santa Fe"
+ },
+ {
+  "idProvincia": 22,
+  "nameProvincia": "Santiago del Estero"
+ },
+ {
+  "idProvincia": 23,
+  "nameProvincia": "Tierra del Fuego"
+ },
+ {
+  "idProvincia": 24,
+  "nameProvincia": "Tucumán"
+ }
+]

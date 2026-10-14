@@ -1,0 +1,164 @@
+[
+ {
+  "idDetalleDevolucion": 1,
+  "devolucionId": 1,
+  "insumoId": 29,
+  "detalleSalidaId": 9,
+  "loteId": 33,
+  "unidadesDevueltas": 1,
+  "createdAt": "-35d@10:30"
+ },
+ {
+  "idDetalleDevolucion": 2,
+  "devolucionId": 2,
+  "insumoId": 8,
+  "detalleSalidaId": 14,
+  "loteId": 10,
+  "unidadesDevueltas": 1,
+  "createdAt": "-32d@10:31"
+ },
+ {
+  "idDetalleDevolucion": 3,
+  "devolucionId": 2,
+  "insumoId": 18,
+  "detalleSalidaId": 15,
+  "loteId": 24,
+  "unidadesDevueltas": 4,
+  "createdAt": "-32d@10:31"
+ },
+ {
+  "idDetalleDevolucion": 4,
+  "devolucionId": 3,
+  "insumoId": 7,
+  "detalleSalidaId": 18,
+  "loteId": 5,
+  "unidadesDevueltas": 4,
+  "createdAt": "-31d@10:32"
+ },
+ {
+  "idDetalleDevolucion": 5,
+  "devolucionId": 4,
+  "insumoId": 21,
+  "detalleSalidaId": 23,
+  "loteId": 26,
+  "unidadesDevueltas": 3,
+  "createdAt": "-28d@10:33"
+ },
+ {
+  "idDetalleDevolucion": 6,
+  "devolucionId": 4,
+  "insumoId": 3,
+  "detalleSalidaId": 24,
+  "loteId": 21,
+  "unidadesDevueltas": 2,
+  "createdAt": "-28d@10:33"
+ },
+ {
+  "idDetalleDevolucion": 7,
+  "devolucionId": 5,
+  "insumoId": 29,
+  "detalleSalidaId": 27,
+  "loteId": 33,
+  "unidadesDevueltas": 4,
+  "createdAt": "-27d@10:34"
+ },
+ {
+  "idDetalleDevolucion": 8,
+  "devolucionId": 6,
+  "insumoId": 6,
+  "detalleSalidaId": 30,
+  "loteId": 28,
+  "unidadesDevueltas": 1,
+  "createdAt": "-24d@10:35"
+ },
+ {
+  "idDetalleDevolucion": 9,
+  "devolucionId": 6,
+  "insumoId": 18,
+  "detalleSalidaId": 31,
+  "loteId": 24,
+  "unidadesDevueltas": 2,
+  "createdAt": "-24d@10:35"
+ },
+ {
+  "idDetalleDevolucion": 10,
+  "devolucionId": 7,
+  "insumoId": 9,
+  "detalleSalidaId": 32,
+  "loteId": 53,
+  "unidadesDevueltas": 4,
+  "createdAt": "-23d@10:36"
+ },
+ {
+  "idDetalleDevolucion": 11,
+  "devolucionId": 8,
+  "insumoId": 3,
+  "detalleSalidaId": 37,
+  "loteId": 21,
+  "unidadesDevueltas": 1,
+  "createdAt": "-20d@10:37"
+ },
+ {
+  "idDetalleDevolucion": 12,
+  "devolucionId": 8,
+  "insumoId": 19,
+  "detalleSalidaId": 38,
+  "loteId": 32,
+  "unidadesDevueltas": 1,
+  "createdAt": "-20d@10:37"
+ },
+ {
+  "idDetalleDevolucion": 13,
+  "devolucionId": 9,
+  "insumoId": 24,
+  "detalleSalidaId": 39,
+  "loteId": 9,
+  "unidadesDevueltas": 4,
+  "createdAt": "-19d@10:38"
+ },
+ {
+  "idDetalleDevolucion": 14,
+  "devolucionId": 10,
+  "insumoId": 1,
+  "detalleSalidaId": 41,
+  "loteId": 4,
+  "unidadesDevueltas": 1,
+  "createdAt": "-16d@10:39"
+ },
+ {
+  "idDetalleDevolucion": 15,
+  "devolucionId": 10,
+  "insumoId": 8,
+  "detalleSalidaId": 42,
+  "loteId": 10,
+  "unidadesDevueltas": 2,
+  "createdAt": "-16d@10:39"
+ },
+ {
+  "idDetalleDevolucion": 16,
+  "devolucionId": 11,
+  "insumoId": 6,
+  "detalleSalidaId": 43,
+  "loteId": 28,
+  "unidadesDevueltas": 2,
+  "createdAt": "-15d@10:40"
+ },
+ {
+  "idDetalleDevolucion": 17,
+  "devolucionId": 12,
+  "insumoId": 20,
+  "detalleSalidaId": 46,
+  "loteId": 3,
+  "unidadesDevueltas": 3,
+  "createdAt": "-12d@10:41"
+ },
+ {
+  "idDetalleDevolucion": 18,
+  "devolucionId": 12,
+  "insumoId": 26,
+  "detalleSalidaId": 47,
+  "loteId": 13,
+  "unidadesDevueltas": 1,
+  "createdAt": "-12d@10:41"
+ }
+]

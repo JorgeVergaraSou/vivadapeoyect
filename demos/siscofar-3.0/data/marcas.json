@@ -1,0 +1,77 @@
+[
+ {
+  "idMarca": 1,
+  "nameMarca": "Laboratorios Aurora",
+  "deletedAt": null
+ },
+ {
+  "idMarca": 2,
+  "nameMarca": "Farmalux",
+  "deletedAt": null
+ },
+ {
+  "idMarca": 3,
+  "nameMarca": "Biomedix",
+  "deletedAt": null
+ },
+ {
+  "idMarca": 4,
+  "nameMarca": "Nuvia Pharma",
+  "deletedAt": null
+ },
+ {
+  "idMarca": 5,
+  "nameMarca": "Heliotrope Labs",
+  "deletedAt": null
+ },
+ {
+  "idMarca": 6,
+  "nameMarca": "Cordillera Salud",
+  "deletedAt": null
+ },
+ {
+  "idMarca": 7,
+  "nameMarca": "Medipunto",
+  "deletedAt": null
+ },
+ {
+  "idMarca": 8,
+  "nameMarca": "Vitalis Demo",
+  "deletedAt": null
+ },
+ {
+  "idMarca": 9,
+  "nameMarca": "Orión Médica",
+  "deletedAt": null
+ },
+ {
+  "idMarca": 10,
+  "nameMarca": "Ceibo Pharma",
+  "deletedAt": null
+ },
+ {
+  "idMarca": 11,
+  "nameMarca": "Atlántica Lab",
+  "deletedAt": null
+ },
+ {
+  "idMarca": 12,
+  "nameMarca": "Quimera",
+  "deletedAt": null
+ },
+ {
+  "idMarca": 13,
+  "nameMarca": "Sanafar",
+  "deletedAt": null
+ },
+ {
+  "idMarca": 14,
+  "nameMarca": "Terranova Health",
+  "deletedAt": null
+ },
+ {
+  "idMarca": 15,
+  "nameMarca": "Pampa Medical",
+  "deletedAt": "-30d@10:00"
+ }
+]

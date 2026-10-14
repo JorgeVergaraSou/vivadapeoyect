@@ -1,0 +1,112 @@
+[
+ {
+  "idUser": 1,
+  "nickUsuario": "demo@vivadaproyect.com",
+  "name": "Demo",
+  "surname": "Administrador",
+  "role": "ADMIN",
+  "servicioIds": [],
+  "email": "demo@vivadaproyect.com",
+  "password": "demo1234",
+  "fotoUrl": null,
+  "codigosRecuperacion": 5,
+  "deletedAt": null,
+  "createdAt": "-250d@09:00"
+ },
+ {
+  "idUser": 2,
+  "nickUsuario": "farmacia@vivadaproyect.com",
+  "name": "Farmacia",
+  "surname": "Demo",
+  "role": "USER",
+  "servicioIds": [],
+  "email": "farmacia@vivadaproyect.com",
+  "password": "demo1234",
+  "fotoUrl": null,
+  "codigosRecuperacion": 5,
+  "deletedAt": null,
+  "createdAt": "-250d@09:00"
+ },
+ {
+  "idUser": 3,
+  "nickUsuario": "enfermeria@vivadaproyect.com",
+  "name": "Enfermería",
+  "surname": "Demo",
+  "role": "SOLICITANTE",
+  "servicioIds": [
+   1,
+   2
+  ],
+  "email": "enfermeria@vivadaproyect.com",
+  "password": "demo1234",
+  "fotoUrl": null,
+  "codigosRecuperacion": 5,
+  "deletedAt": null,
+  "createdAt": "-250d@09:00"
+ },
+ {
+  "idUser": 4,
+  "nickUsuario": "uti@vivadaproyect.com",
+  "name": "Terapia",
+  "surname": "Demo",
+  "role": "SOLICITANTE",
+  "servicioIds": [
+   3
+  ],
+  "email": null,
+  "password": "demo1234",
+  "fotoUrl": null,
+  "codigosRecuperacion": 5,
+  "deletedAt": null,
+  "createdAt": "-250d@09:00"
+ },
+ {
+  "idUser": 5,
+  "nickUsuario": "lucia.ferreyra",
+  "name": "Lucía",
+  "surname": "Ferreyra Demo",
+  "role": "USER",
+  "servicioIds": [],
+  "email": null,
+  "password": "demo1234",
+  "fotoUrl": null,
+  "codigosRecuperacion": 5,
+  "deletedAt": null,
+  "createdAt": "-250d@09:00"
+ },
+ {
+  "idUser": 6,
+  "nickUsuario": "tomas.arce",
+  "name": "Tomás",
+  "surname": "Arce Demo",
+  "role": "SOLICITANTE",
+  "servicioIds": [
+   4,
+   5
+  ],
+  "email": null,
+  "password": "demo1234",
+  "fotoUrl": null,
+  "codigosRecuperacion": 5,
+  "deletedAt": null,
+  "createdAt": "-250d@09:00"
+ },
+ {
+  "idUser": 7,
+  "nickUsuario": "camila.soria",
+  "name": "Camila",
+  "surname": "Soria Demo",
+  "role": "SOLICITANTE",
+  "servicioIds": [
+   6,
+   7,
+   8
+  ],
+  "email": null,
+  "password": "demo1234",
+  "fotoUrl": null,
+  "codigosRecuperacion": 5,
+  "deletedAt": null,
+  "createdAt": "-250d@09:00"
+ }
+]

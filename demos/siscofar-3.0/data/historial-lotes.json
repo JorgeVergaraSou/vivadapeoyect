@@ -1,0 +1,52 @@
+[
+ {
+  "id": 1,
+  "loteId": 1,
+  "campo": "stockActual",
+  "valorAnterior": "134",
+  "valorNuevo": "122",
+  "motivo": "AUDITORIA_FISICA",
+  "userId": 1,
+  "createdAt": "-3d@14:10"
+ },
+ {
+  "id": 2,
+  "loteId": 5,
+  "campo": "stockActual",
+  "valorAnterior": "181",
+  "valorNuevo": "177",
+  "motivo": "PRODUCTO_DAÑADO",
+  "userId": 2,
+  "createdAt": "-5d@14:11"
+ },
+ {
+  "id": 3,
+  "loteId": 9,
+  "campo": "stockActual",
+  "valorAnterior": "727",
+  "valorNuevo": "720",
+  "motivo": "CORRECCION_MANUAL",
+  "userId": 1,
+  "createdAt": "-2d@14:12"
+ },
+ {
+  "id": 4,
+  "loteId": 13,
+  "campo": "stockActual",
+  "valorAnterior": "354",
+  "valorNuevo": "360",
+  "motivo": "PRODUCTO_ENCONTRADO",
+  "userId": 2,
+  "createdAt": "-1d@14:13"
+ },
+ {
+  "id": 5,
+  "loteId": 17,
+  "campo": "stockActual",
+  "valorAnterior": "203",
+  "valorNuevo": "206",
+  "motivo": "ERROR_DE_CARGA",
+  "userId": 1,
+  "createdAt": "-8d@14:14"
+ }
+]
