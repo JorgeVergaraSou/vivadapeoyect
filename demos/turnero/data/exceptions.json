@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "professionalId": 4,
+    "type": "VACACIONES",
+    "startOffset": 6,
+    "endOffset": 13,
+    "startTime": null,
+    "endTime": null,
+    "officeId": null,
+    "slotMinutes": null,
+    "reason": "Vacaciones de invierno",
+    "active": true
+  },
+  {
+    "id": 2,
+    "professionalId": null,
+    "type": "FERIADO",
+    "startOffset": 10,
+    "endOffset": 10,
+    "startTime": null,
+    "endTime": null,
+    "officeId": null,
+    "slotMinutes": null,
+    "reason": "Feriado de ejemplo",
+    "active": true
+  },
+  {
+    "id": 3,
+    "professionalId": 2,
+    "type": "BLOQUEO",
+    "startOffset": 2,
+    "endOffset": 2,
+    "startTime": "10:00:00",
+    "endTime": "11:00:00",
+    "officeId": null,
+    "slotMinutes": null,
+    "reason": "Trámite personal",
+    "active": true
+  },
+  {
+    "id": 4,
+    "professionalId": 6,
+    "type": "REUNION",
+    "startOffset": 3,
+    "endOffset": 3,
+    "startTime": "09:00:00",
+    "endTime": "10:30:00",
+    "officeId": null,
+    "slotMinutes": null,
+    "reason": "Reunión de equipo",
+    "active": true
+  },
+  {
+    "id": 5,
+    "professionalId": 1,
+    "type": "HORARIO_ESPECIAL",
+    "startOffset": 4,
+    "endOffset": 4,
+    "startTime": "16:00:00",
+    "endTime": "19:00:00",
+    "officeId": 1,
+    "slotMinutes": 30,
+    "reason": "Jornada extra de controles",
+    "active": true
+  },
+  {
+    "id": 6,
+    "professionalId": 8,
+    "type": "LICENCIA",
+    "startOffset": 14,
+    "endOffset": 20,
+    "startTime": null,
+    "endTime": null,
+    "officeId": null,
+    "slotMinutes": null,
+    "reason": "Licencia por congreso",
+    "active": true
+  }
+]

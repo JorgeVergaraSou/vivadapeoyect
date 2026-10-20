@@ -1,0 +1,1 @@
+import{h as e,o as t,s as n}from"./utilities-DCpDUZhg.js";import{r}from"./react-redux-Ba32FaWK.js";var i=n();function a(){let n=r(e=>e.user);return(0,i.jsx)(e,{replace:!0,to:t(n.role)})}export{a as default};

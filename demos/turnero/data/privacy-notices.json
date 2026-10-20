@@ -1,0 +1,10 @@
+[
+  {
+    "version": 1,
+    "summary": "Usamos tus datos solo para gestionar tu turno. Esta es una demo con datos ficticios.",
+    "policy": "POLÍTICA DE PRIVACIDAD (TEXTO DE EJEMPLO)\n\nEsta es una demostración. Los datos que cargues se guardan solo en tu navegador y no se envían a ningún servidor.\n\nEn la versión completa, esta sección describe qué datos se recopilan, para qué se usan, cuánto tiempo se conservan y cómo ejercer tus derechos.",
+    "draft": false,
+    "publishedAt": "now-60d",
+    "author": "Admin Demo"
+  }
+]

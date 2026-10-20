@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Salud Norte",
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Mutual Andina",
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "Prevención Sur",
+    "active": true
+  },
+  {
+    "id": 4,
+    "name": "Medicina Litoral",
+    "active": true
+  },
+  {
+    "id": 5,
+    "name": "Cobertura Plena",
+    "active": true
+  },
+  {
+    "id": 6,
+    "name": "Prepaga Horizonte",
+    "active": true
+  },
+  {
+    "id": 7,
+    "name": "Plan Médico Ceibo",
+    "active": true
+  },
+  {
+    "id": 8,
+    "name": "Obra Social Demo",
+    "active": true
+  }
+]

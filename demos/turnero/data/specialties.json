@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Clínica médica",
+    "description": "Atención general de adultos",
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Pediatría",
+    "description": "Control y atención de niños y adolescentes",
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "Cardiología",
+    "description": "Corazón y sistema circulatorio",
+    "active": true
+  },
+  {
+    "id": 4,
+    "name": "Dermatología",
+    "description": "Piel, pelo y uñas",
+    "active": true
+  },
+  {
+    "id": 5,
+    "name": "Ginecología",
+    "description": "Salud de la mujer",
+    "active": true
+  },
+  {
+    "id": 6,
+    "name": "Traumatología",
+    "description": "Huesos, músculos y articulaciones",
+    "active": true
+  },
+  {
+    "id": 7,
+    "name": "Oftalmología",
+    "description": "Salud visual",
+    "active": true
+  },
+  {
+    "id": 8,
+    "name": "Nutrición",
+    "description": "Alimentación y hábitos saludables",
+    "active": true
+  }
+]

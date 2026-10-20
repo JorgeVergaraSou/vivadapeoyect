@@ -1,0 +1,14 @@
+{
+  "clinicName": "Consultorio Demo",
+  "contactPhone": "011 5555-0101",
+  "publicBookingEnabled": true,
+  "bookingHorizonDays": 30,
+  "publicCancelMinHours": 6,
+  "callsEnabled": true,
+  "reminderHoursBefore": 24,
+  "secondReminderHoursBefore": 2,
+  "publicMaxPendingPerPatient": 3,
+  "twoFactorRoles": [],
+  "callNameFormat": "FULL",
+  "callVoiceRepeats": 2
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Consultorio 1",
+    "address": "Av. de la Demostración 100, Ciudad Ficticia",
+    "locationDetails": "Planta baja",
+    "phone": "011 5555-0101",
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Consultorio 2",
+    "address": "Av. de la Demostración 100, Ciudad Ficticia",
+    "locationDetails": "Planta baja, al fondo",
+    "phone": "011 5555-0101",
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "Consultorio 3",
+    "address": "Av. de la Demostración 100, Ciudad Ficticia",
+    "locationDetails": "Primer piso",
+    "phone": "011 5555-0102",
+    "active": true
+  },
+  {
+    "id": 4,
+    "name": "Consultorio 4",
+    "address": "Calle Imaginaria 245, Ciudad Ficticia",
+    "locationDetails": "Sede anexo",
+    "phone": "011 5555-0103",
+    "active": true
+  }
+]

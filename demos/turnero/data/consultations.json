@@ -1,0 +1,438 @@
+[
+  {
+    "id": 1,
+    "appointmentId": 1,
+    "patientId": 1,
+    "professionalId": 1,
+    "status": "FINALIZADA",
+    "reason": "Control de rutina",
+    "anamnesis": "Paciente asintomático. Refiere buen descanso y alimentación variada.",
+    "physicalExam": "Signos estables. Sin hallazgos relevantes.",
+    "evolution": "Buena evolución.",
+    "indications": "Mantener hábitos saludables. Control en 6 meses.",
+    "observations": null,
+    "vitalSigns": {
+      "weightKg": 60,
+      "heightCm": 160,
+      "systolicBp": 115,
+      "diastolicBp": 72,
+      "heartRate": 66,
+      "temperatureC": 36.5,
+      "oxygenSaturation": 97
+    },
+    "diagnoses": [
+      {
+        "id": 1,
+        "type": "PRINCIPAL",
+        "description": "Rinofaringitis aguda (ejemplo)",
+        "codeSystem": "CIE-10",
+        "code": "J00"
+      }
+    ],
+    "medications": [],
+    "studyRequests": [
+      {
+        "id": 3,
+        "type": "LABORATORIO",
+        "description": "Hemograma completo",
+        "notes": null
+      }
+    ],
+    "amendments": [],
+    "dayOffset": 0,
+    "startTime": "09:00:00",
+    "contentHash": "demo01demo01demo01demo01demo01demo01demo01demo01"
+  },
+  {
+    "id": 2,
+    "appointmentId": 7,
+    "patientId": 7,
+    "professionalId": 2,
+    "status": "FINALIZADA",
+    "reason": "Dolor lumbar de una semana",
+    "anamnesis": "Dolor al agacharse, sin irradiación. Sin antecedentes de trauma.",
+    "physicalExam": "Contractura paravertebral leve.",
+    "evolution": "Mejoría parcial con reposo relativo.",
+    "indications": "Calor local y estiramientos suaves.",
+    "observations": null,
+    "vitalSigns": {
+      "weightKg": 63,
+      "heightCm": 164,
+      "systolicBp": 118,
+      "diastolicBp": 74,
+      "heartRate": 69,
+      "temperatureC": 36.5,
+      "oxygenSaturation": 98
+    },
+    "diagnoses": [
+      {
+        "id": 11,
+        "type": "PRINCIPAL",
+        "description": "Lumbalgia (ejemplo)",
+        "codeSystem": "CIE-10",
+        "code": "M54"
+      }
+    ],
+    "medications": [
+      {
+        "id": 12,
+        "drugName": "Paracetamol 500 mg (ejemplo)",
+        "dose": "1 comprimido",
+        "frequency": "Cada 8 horas",
+        "duration": "3 días",
+        "notes": null
+      }
+    ],
+    "studyRequests": [],
+    "amendments": [],
+    "dayOffset": 0,
+    "startTime": "08:20:00",
+    "contentHash": "demo02demo02demo02demo02demo02demo02demo02demo02"
+  },
+  {
+    "id": 3,
+    "appointmentId": 11,
+    "patientId": 11,
+    "professionalId": 1,
+    "status": "FINALIZADA",
+    "reason": "Cefalea intermitente",
+    "anamnesis": "Cefalea frontal vespertina, 3 episodios por semana.",
+    "physicalExam": "Examen neurológico sin alteraciones.",
+    "evolution": "Se sugiere llevar un registro de episodios.",
+    "indications": "Hidratación, pausas de pantalla y control en 15 días.",
+    "observations": null,
+    "vitalSigns": {
+      "weightKg": 66,
+      "heightCm": 168,
+      "systolicBp": 121,
+      "diastolicBp": 76,
+      "heartRate": 72,
+      "temperatureC": 36.5,
+      "oxygenSaturation": 99
+    },
+    "diagnoses": [
+      {
+        "id": 21,
+        "type": "PRINCIPAL",
+        "description": "Cefalea (ejemplo)",
+        "codeSystem": "CIE-10",
+        "code": "R51"
+      }
+    ],
+    "medications": [],
+    "studyRequests": [],
+    "amendments": [],
+    "dayOffset": -1,
+    "startTime": "09:00:00",
+    "contentHash": "demo03demo03demo03demo03demo03demo03demo03demo03"
+  },
+  {
+    "id": 4,
+    "appointmentId": 12,
+    "patientId": 12,
+    "professionalId": 1,
+    "status": "FINALIZADA",
+    "reason": "Control de presión arterial",
+    "anamnesis": "Refiere valores levemente elevados en domicilio.",
+    "physicalExam": "Tensión arterial 130/85 mmHg.",
+    "evolution": "Se ajusta plan de seguimiento.",
+    "indications": "Reducir sal, registrar presión por 7 días.",
+    "observations": null,
+    "vitalSigns": {
+      "weightKg": 69,
+      "heightCm": 172,
+      "systolicBp": 124,
+      "diastolicBp": 78,
+      "heartRate": 75,
+      "temperatureC": 36.5,
+      "oxygenSaturation": 97
+    },
+    "diagnoses": [
+      {
+        "id": 31,
+        "type": "PRINCIPAL",
+        "description": "Hipertensión arterial (ejemplo)",
+        "codeSystem": "CIE-10",
+        "code": "I10"
+      }
+    ],
+    "medications": [
+      {
+        "id": 32,
+        "drugName": "Paracetamol 500 mg (ejemplo)",
+        "dose": "1 comprimido",
+        "frequency": "Cada 8 horas",
+        "duration": "3 días",
+        "notes": null
+      }
+    ],
+    "studyRequests": [],
+    "amendments": [],
+    "dayOffset": -1,
+    "startTime": "09:30:00",
+    "contentHash": "demo04demo04demo04demo04demo04demo04demo04demo04"
+  },
+  {
+    "id": 5,
+    "appointmentId": 14,
+    "patientId": 14,
+    "professionalId": 2,
+    "status": "FINALIZADA",
+    "reason": "Control de rutina",
+    "anamnesis": "Paciente asintomático. Refiere buen descanso y alimentación variada.",
+    "physicalExam": "Signos estables. Sin hallazgos relevantes.",
+    "evolution": "Buena evolución.",
+    "indications": "Mantener hábitos saludables. Control en 6 meses.",
+    "observations": null,
+    "vitalSigns": {
+      "weightKg": 72,
+      "heightCm": 176,
+      "systolicBp": 127,
+      "diastolicBp": 80,
+      "heartRate": 78,
+      "temperatureC": 36.5,
+      "oxygenSaturation": 98
+    },
+    "diagnoses": [
+      {
+        "id": 41,
+        "type": "PRINCIPAL",
+        "description": "Rinofaringitis aguda (ejemplo)",
+        "codeSystem": "CIE-10",
+        "code": "J00"
+      }
+    ],
+    "medications": [],
+    "studyRequests": [
+      {
+        "id": 43,
+        "type": "LABORATORIO",
+        "description": "Hemograma completo",
+        "notes": null
+      }
+    ],
+    "amendments": [],
+    "dayOffset": -3,
+    "startTime": "08:20:00",
+    "contentHash": "demo05demo05demo05demo05demo05demo05demo05demo05"
+  },
+  {
+    "id": 6,
+    "appointmentId": 15,
+    "patientId": 15,
+    "professionalId": 1,
+    "status": "FINALIZADA",
+    "reason": "Dolor lumbar de una semana",
+    "anamnesis": "Dolor al agacharse, sin irradiación. Sin antecedentes de trauma.",
+    "physicalExam": "Contractura paravertebral leve.",
+    "evolution": "Mejoría parcial con reposo relativo.",
+    "indications": "Calor local y estiramientos suaves.",
+    "observations": null,
+    "vitalSigns": {
+      "weightKg": 75,
+      "heightCm": 180,
+      "systolicBp": 130,
+      "diastolicBp": 82,
+      "heartRate": 81,
+      "temperatureC": 36.5,
+      "oxygenSaturation": 99
+    },
+    "diagnoses": [
+      {
+        "id": 51,
+        "type": "PRINCIPAL",
+        "description": "Lumbalgia (ejemplo)",
+        "codeSystem": "CIE-10",
+        "code": "M54"
+      }
+    ],
+    "medications": [
+      {
+        "id": 52,
+        "drugName": "Paracetamol 500 mg (ejemplo)",
+        "dose": "1 comprimido",
+        "frequency": "Cada 8 horas",
+        "duration": "3 días",
+        "notes": null
+      }
+    ],
+    "studyRequests": [],
+    "amendments": [],
+    "dayOffset": -4,
+    "startTime": "10:00:00",
+    "contentHash": "demo06demo06demo06demo06demo06demo06demo06demo06"
+  },
+  {
+    "id": 7,
+    "appointmentId": 17,
+    "patientId": 17,
+    "professionalId": 4,
+    "status": "FINALIZADA",
+    "reason": "Cefalea intermitente",
+    "anamnesis": "Cefalea frontal vespertina, 3 episodios por semana.",
+    "physicalExam": "Examen neurológico sin alteraciones.",
+    "evolution": "Se sugiere llevar un registro de episodios.",
+    "indications": "Hidratación, pausas de pantalla y control en 15 días.",
+    "observations": null,
+    "vitalSigns": {
+      "weightKg": 78,
+      "heightCm": 184,
+      "systolicBp": 133,
+      "diastolicBp": 72,
+      "heartRate": 66,
+      "temperatureC": 36.5,
+      "oxygenSaturation": 97
+    },
+    "diagnoses": [
+      {
+        "id": 61,
+        "type": "PRINCIPAL",
+        "description": "Cefalea (ejemplo)",
+        "codeSystem": "CIE-10",
+        "code": "R51"
+      }
+    ],
+    "medications": [],
+    "studyRequests": [],
+    "amendments": [],
+    "dayOffset": -6,
+    "startTime": "14:20:00",
+    "contentHash": "demo07demo07demo07demo07demo07demo07demo07demo07"
+  },
+  {
+    "id": 8,
+    "appointmentId": 18,
+    "patientId": 2,
+    "professionalId": 1,
+    "status": "FINALIZADA",
+    "reason": "Control de presión arterial",
+    "anamnesis": "Refiere valores levemente elevados en domicilio.",
+    "physicalExam": "Tensión arterial 130/85 mmHg.",
+    "evolution": "Se ajusta plan de seguimiento.",
+    "indications": "Reducir sal, registrar presión por 7 días.",
+    "observations": null,
+    "vitalSigns": {
+      "weightKg": 81,
+      "heightCm": 163,
+      "systolicBp": 116,
+      "diastolicBp": 74,
+      "heartRate": 69,
+      "temperatureC": 36.5,
+      "oxygenSaturation": 98
+    },
+    "diagnoses": [
+      {
+        "id": 71,
+        "type": "PRINCIPAL",
+        "description": "Hipertensión arterial (ejemplo)",
+        "codeSystem": "CIE-10",
+        "code": "I10"
+      }
+    ],
+    "medications": [
+      {
+        "id": 72,
+        "drugName": "Paracetamol 500 mg (ejemplo)",
+        "dose": "1 comprimido",
+        "frequency": "Cada 8 horas",
+        "duration": "3 días",
+        "notes": null
+      }
+    ],
+    "studyRequests": [],
+    "amendments": [],
+    "dayOffset": -7,
+    "startTime": "11:00:00",
+    "contentHash": "demo08demo08demo08demo08demo08demo08demo08demo08"
+  },
+  {
+    "id": 9,
+    "appointmentId": 19,
+    "patientId": 18,
+    "professionalId": 5,
+    "status": "FINALIZADA",
+    "reason": "Control de rutina",
+    "anamnesis": "Paciente asintomático. Refiere buen descanso y alimentación variada.",
+    "physicalExam": "Signos estables. Sin hallazgos relevantes.",
+    "evolution": "Buena evolución.",
+    "indications": "Mantener hábitos saludables. Control en 6 meses.",
+    "observations": null,
+    "vitalSigns": {
+      "weightKg": 84,
+      "heightCm": 167,
+      "systolicBp": 119,
+      "diastolicBp": 76,
+      "heartRate": 72,
+      "temperatureC": 36.5,
+      "oxygenSaturation": 99
+    },
+    "diagnoses": [
+      {
+        "id": 81,
+        "type": "PRINCIPAL",
+        "description": "Rinofaringitis aguda (ejemplo)",
+        "codeSystem": "CIE-10",
+        "code": "J00"
+      }
+    ],
+    "medications": [],
+    "studyRequests": [
+      {
+        "id": 83,
+        "type": "LABORATORIO",
+        "description": "Hemograma completo",
+        "notes": null
+      }
+    ],
+    "amendments": [],
+    "dayOffset": -8,
+    "startTime": "10:00:00",
+    "contentHash": "demo09demo09demo09demo09demo09demo09demo09demo09"
+  },
+  {
+    "id": 10,
+    "appointmentId": 20,
+    "patientId": 19,
+    "professionalId": 1,
+    "status": "FINALIZADA",
+    "reason": "Dolor lumbar de una semana",
+    "anamnesis": "Dolor al agacharse, sin irradiación. Sin antecedentes de trauma.",
+    "physicalExam": "Contractura paravertebral leve.",
+    "evolution": "Mejoría parcial con reposo relativo.",
+    "indications": "Calor local y estiramientos suaves.",
+    "observations": null,
+    "vitalSigns": {
+      "weightKg": 62,
+      "heightCm": 171,
+      "systolicBp": 122,
+      "diastolicBp": 78,
+      "heartRate": 75,
+      "temperatureC": 36.5,
+      "oxygenSaturation": 97
+    },
+    "diagnoses": [
+      {
+        "id": 91,
+        "type": "PRINCIPAL",
+        "description": "Lumbalgia (ejemplo)",
+        "codeSystem": "CIE-10",
+        "code": "M54"
+      }
+    ],
+    "medications": [
+      {
+        "id": 92,
+        "drugName": "Paracetamol 500 mg (ejemplo)",
+        "dose": "1 comprimido",
+        "frequency": "Cada 8 horas",
+        "duration": "3 días",
+        "notes": null
+      }
+    ],
+    "studyRequests": [],
+    "amendments": [],
+    "dayOffset": -9,
+    "startTime": "09:30:00",
+    "contentHash": "demo0ademo0ademo0ademo0ademo0ademo0ademo0ademo0a"
+  }
+]
