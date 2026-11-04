@@ -179,6 +179,24 @@ a { color: var(--link); }
   .section { padding: 90px 0; }
 }
 
+/* ---------- Enlace de vuelta (arriba del hero) ---------- */
+.backlink { margin: 0 0 20px; text-align: left; }
+.backlink a { display: inline-flex; align-items: center; min-height: 44px; font-weight: 600; text-decoration: none; }
+.backlink a:hover { text-decoration: underline; }
+
+/* ---------- Índice de apps (app/index.html) ---------- */
+.apps { display: grid; gap: 20px; }
+.app-card { display: flex; flex-direction: column; gap: 18px; padding: 26px 24px; }
+.app-card__head { display: flex; align-items: center; gap: 16px; }
+.app-card__icon { width: 64px; height: 64px; border-radius: 16px; flex: none; box-shadow: var(--shadow); }
+.app-card h3 { margin: 0; font-size: 1.3rem; }
+.app-card p { margin: 0; }
+.app-card__actions { display: flex; flex-wrap: wrap; gap: 12px; }
+.app-card__actions .btn { flex: 1 1 150px; }
+@media (min-width: 720px) {
+  .apps { grid-template-columns: repeat(2, 1fr); }
+}
+
 /* ---------- Movimiento reducido ---------- */
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
