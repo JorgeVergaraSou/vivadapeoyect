@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>¿Cuánto queda? Gastos del mes | App de gastos del hogar para Android</title>
+  <meta name="description" content="Anota tus gastos del mes y mira cuánto te queda. Sin conexión ni cuentas. Una app de Vivada Proyect para Android.">
+  <meta name="theme-color" content="#0A1424">
+  <link rel="canonical" href="https://vivadaproyect.com/app/cuantoqueda/">
+  <link rel="icon" type="image/png" href="img/icono-192.png">
+  <link rel="apple-touch-icon" href="img/icono-192.png">
+
+  <!-- Open Graph / Twitter Card -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Vivada Proyect">
+  <meta property="og:title" content="¿Cuánto queda? Gastos del mes">
+  <meta property="og:description" content="Anota tus gastos del mes y mira cuánto te queda. Sin conexión ni cuentas.">
+  <meta property="og:url" content="https://vivadaproyect.com/app/cuantoqueda/">
+  <meta property="og:image" content="https://vivadaproyect.com/app/cuantoqueda/img/cuanto-queda-social.jpg">
+  <meta property="og:image:width" content="1024">
+  <meta property="og:image:height" content="500">
+  <meta property="og:image:alt" content="¿Cuánto queda? Gastos del mes: sin conexión, sin cuentas, sin anuncios">
+  <meta property="og:locale" content="es_LA">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="¿Cuánto queda? Gastos del mes">
+  <meta name="twitter:description" content="Anota tus gastos del mes y mira cuánto te queda. Sin conexión ni cuentas.">
+  <meta name="twitter:image" content="https://vivadaproyect.com/app/cuantoqueda/img/cuanto-queda-social.jpg">
+
+  <!-- Datos estructurados.
+       PENDIENTE al publicar la app en Google Play: agregar aquí "downloadUrl" e "installUrl" con
+       https://play.google.com/store/apps/details?id=com.vivadaproyect.cuantoqueda -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "MobileApplication",
+    "name": "¿Cuánto queda? Gastos del mes",
+    "description": "Anota tus gastos del mes y mira cuánto te queda. Sin conexión ni cuentas.",
+    "operatingSystem": "ANDROID",
+    "applicationCategory": "FinanceApplication",
+    "inLanguage": "es",
+    "url": "https://vivadaproyect.com/app/cuantoqueda/",
+    "image": "https://vivadaproyect.com/app/cuantoqueda/img/icono-512.png",
+    "screenshot": "https://vivadaproyect.com/app/cuantoqueda/img/captura-mes-720.webp",
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+    "author": { "@type": "Organization", "name": "Vivada Proyect", "url": "https://vivadaproyect.com/" }
+  }
+  </script>
+
+  <!-- Tema: oscuro por defecto, igual que el resto del sitio -->
+  <script>
+    (function () {
+      var t = 'dark';
+      try { var s = localStorage.getItem('vp-theme'); if (s === 'light' || s === 'dark') t = s; } catch (e) {}
+      document.documentElement.setAttribute('data-theme', t);
+    })();
+  </script>
+
+  <!-- Estilos compartidos con la página de Vivada Vault -->
+  <link rel="stylesheet" href="../vault/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Saltar al contenido</a>
+
+  <!-- ============ BARRA SUPERIOR ============ -->
+  <header class="topbar">
+    <div class="container topbar__inner">
+      <a class="brand brand--nowrap" href="#inicio" aria-label="¿Cuánto queda?, ir al inicio">
+        <img src="img/icono-192.png" alt="" width="34" height="34">
+        <span>¿Cuánto queda?</span>
+      </a>
+      <nav class="topnav" aria-label="Secciones">
+        <a href="/app/">Apps</a>
+        <a href="#funciones">Funciones</a>
+        <a href="#privacidad">Privacidad</a>
+        <a href="#faq">Preguntas</a>
+      </nav>
+      <span class="btn btn--small btn--compact btn--disabled">Próximamente<span class="sr-only"> en Google Play</span></span>
+      <button class="theme-toggle" id="themeToggle" type="button" aria-label="Cambiar a modo claro">
+        <svg class="i-moon" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.8A8.5 8.5 0 1 1 11.2 3a6.8 6.8 0 0 0 9.8 9.8Z"/></svg>
+        <svg class="i-sun" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <main id="main">
+    <!-- ============ HERO ============ -->
+    <section class="hero" id="inicio">
+      <div class="hero__bg" aria-hidden="true"><span class="shape shape--1"></span><span class="shape shape--2"></span></div>
+      <div class="container hero__inner">
+        <p class="backlink"><a href="/app/">← Todas las apps</a></p>
+        <img class="hero__icon" src="img/icono-512.png" alt="Ícono de ¿Cuánto queda?: un calendario con un signo de pesos y una marca de verificación" width="96" height="96">
+        <p class="eyebrow">Gastos del mes · App para Android</p>
+        <h1>¿Cuánto queda? <span class="grad-text">Gastos del mes</span></h1>
+        <p class="lead">Anota tus gastos del mes y mira cuánto te queda. Sin conexión ni cuentas.</p>
+        <!-- PENDIENTE al publicar: cambiar este <span> por
+             <a class="btn btn--big" href="https://play.google.com/store/apps/details?id=com.vivadaproyect.cuantoqueda" target="_blank" rel="noopener noreferrer">Disponible en Google Play<span class="sr-only"> (se abre en una pestaña nueva)</span></a>
+             (igual que en /app/vault/) y hacer lo mismo con el botón de la barra superior y el del final. -->
+        <span class="btn btn--big btn--disabled">Próximamente en Google Play</span>
+        <p class="hero__meta">Gratis · Sin anuncios · Hecha en español</p>
+      </div>
+    </section>
+
+    <!-- ============ CAPTURAS ============ -->
+    <section class="section" id="capturas" aria-labelledby="t-capturas">
+      <div class="container">
+        <header class="section__head">
+          <p class="eyebrow">Así se ve</p>
+          <h2 id="t-capturas">Sabe siempre cómo vas</h2>
+          <p>Desliza para ver la app. Los datos de las capturas son de ejemplo.</p>
+        </header>
+        <div class="gallery" role="region" aria-label="Capturas de pantalla de la app" tabindex="0">
+          <figure class="gallery__item">
+            <img src="img/captura-mes-540.webp" srcset="img/captura-mes-360.webp 360w, img/captura-mes-540.webp 540w, img/captura-mes-720.webp 720w" sizes="(min-width: 720px) 220px, 62vw" width="540" height="1065" loading="lazy"
+                 alt="Pantalla del mes de noviembre de 2026 con los totales GASTOS, SUELDO y LIBRE, la barra de lo pagado y la lista de gastos con casillas para marcarlos como pagados">
+            <figcaption>El mes de un vistazo</figcaption>
+          </figure>
+          <figure class="gallery__item">
+            <img src="img/captura-gasto-540.webp" srcset="img/captura-gasto-360.webp 360w, img/captura-gasto-540.webp 540w, img/captura-gasto-720.webp 720w" sizes="(min-width: 720px) 220px, 62vw" width="540" height="1065" loading="lazy"
+                 alt="Ventana para corregir el monto de un gasto, con el valor previsto, el monto, una nota opcional y los botones Quitar de este mes y Guardar">
+            <figcaption>Corrige cada monto</figcaption>
+          </figure>
+          <figure class="gallery__item">
+            <img src="img/captura-super-540.webp" srcset="img/captura-super-360.webp 360w, img/captura-super-540.webp 540w, img/captura-super-720.webp 720w" sizes="(min-width: 720px) 220px, 62vw" width="540" height="1065" loading="lazy"
+                 alt="Pantalla del súper con GASTOS SÚPER, SUELDO y LIBRE, y la lista de compras: verduras, carne, lácteos y limpieza">
+            <figcaption>Control del súper</figcaption>
+          </figure>
+          <figure class="gallery__item">
+            <img src="img/captura-historial-540.webp" srcset="img/captura-historial-360.webp 360w, img/captura-historial-540.webp 540w, img/captura-historial-720.webp 720w" sizes="(min-width: 720px) 220px, 62vw" width="540" height="1065" loading="lazy"
+                 alt="Historial de los últimos 12 meses con gráficos de ingresos, gastos previstos y pagado, y el detalle del mes">
+            <figcaption>Historial de 12 meses</figcaption>
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ FUNCIONES ============ -->
+    <section class="section section--alt" id="funciones" aria-labelledby="t-funciones">
+      <div class="container">
+        <header class="section__head">
+          <p class="eyebrow">Funciones principales</p>
+          <h2 id="t-funciones">Los gastos de tu hogar, mes a mes, sin planillas</h2>
+          <p>Anotas lo que debes pagar, lo marcas cuando lo pagas y ves al instante cuánto dinero te queda.</p>
+        </header>
+        <div class="grid grid--features">
+          <article class="card">
+            <div class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="3"/><path d="M3 10h18M8 3v4M16 3v4"/></svg></div>
+            <h3>Cuatro números claros</h3>
+            <p>GASTOS, SUELDO, LIBRE y PAGADO. LIBRE es lo que te queda en mano ahora, y debajo ves «Si pagas todo».</p>
+          </article>
+          <article class="card">
+            <div class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="8" width="12" height="12" rx="2"/><path d="M16 8V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h2"/></svg></div>
+            <h3>Empieza cada mes en un toque</h3>
+            <p>«Copiar mes anterior» trae tus conceptos y montos. Corriges cada uno y la app te muestra el «Previsto original» para comparar.</p>
+          </article>
+          <article class="card">
+            <div class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="11" width="16" height="10" rx="2"/><path d="M8 11V7a4 4 0 0 1 8 0v4"/></svg></div>
+            <h3>Pagado es pagado</h3>
+            <p>Al marcar un gasto como pagado queda bloqueado. Si necesitas corregirlo, mantén pulsado y elige «Reabrir pago».</p>
+          </article>
+          <article class="card">
+            <div class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="3.500"/><path d="M12 3v5.500"/></svg></div>
+            <h3>Tus conceptos, a tu manera</h3>
+            <p>Crea tus conceptos (luz, agua, alquiler, internet…), agrúpalos y ponles un color. También puedes agregar un gasto puntual solo para ese mes.</p>
+          </article>
+          <article class="card">
+            <div class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 4h2l2.400 11.200a1 1 0 0 0 1 .8h8.800a1 1 0 0 0 1-.8L20 8H6"/><circle cx="9" cy="20" r="1.300"/><circle cx="17" cy="20" r="1.300"/></svg></div>
+            <h3>Control del súper</h3>
+            <p>Anota cada compra con su monto y mira el total del mes, con tu sueldo y el mismo LIBRE, ya con el súper descontado.</p>
+          </article>
+          <article class="card">
+            <div class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></svg></div>
+            <h3>Historial de 12 meses</h3>
+            <p>Gráficos de ingresos, gastos y lo pagado mes a mes, con lo que te quedó libre. Ideal para ver en qué meses gastas más.</p>
+          </article>
+          <article class="card">
+            <div class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12M7 10l5 5 5-5M5 21h14"/></svg></div>
+            <h3>Comparte y respalda</h3>
+            <p>Comparte una plantilla (.gdm) con otra persona, exporta un respaldo completo para cuando cambies de celular, o exporta el mes a CSV.</p>
+          </article>
+          <article class="card">
+            <div class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.800A8.500 8.500 0 1 1 11.200 3a6.800 6.800 0 0 0 9.800 9.800Z"/></svg></div>
+            <h3>A tu gusto</h3>
+            <p>Tema claro, oscuro o el del sistema, y la moneda que prefieras ($, US$, €, S/, R$ u otra).</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ PRIVACIDAD ============ -->
+    <section class="section" id="privacidad" aria-labelledby="t-privacidad">
+      <div class="container">
+        <header class="section__head">
+          <p class="eyebrow">Tu privacidad, primero</p>
+          <h2 id="t-privacidad">Tus datos se quedan en tu teléfono</h2>
+        </header>
+        <div class="explain">
+          <article>
+            <h3>100 % sin conexión</h3>
+            <p>Funciona sin conexión: la app no pide permiso de Internet.</p>
+          </article>
+          <article>
+            <h3>Sin cuentas ni anuncios</h3>
+            <p>Sin cuentas, sin registro, sin anuncios y sin análisis de uso.</p>
+          </article>
+          <article>
+            <h3>Nadie más los recibe</h3>
+            <p>Tus datos se guardan solo en tu teléfono. Nadie más los recibe.</p>
+          </article>
+        </div>
+        <div class="notice">
+          <p>Lee los detalles en la <a href="/cuantoqueda/privacidad.html">política de privacidad</a>.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ FAQ ============ -->
+    <section class="section section--alt" id="faq" aria-labelledby="t-faq">
+      <div class="container">
+        <header class="section__head">
+          <p class="eyebrow">Preguntas frecuentes</p>
+          <h2 id="t-faq">¿Dudas? Aquí van las respuestas</h2>
+        </header>
+        <div class="faq">
+          <details>
+            <summary>¿Funciona sin Internet?</summary>
+            <p>Sí. Funciona 100 % sin conexión: la app no pide permiso de Internet.</p>
+          </details>
+          <details>
+            <summary>¿Cuánto cuesta?</summary>
+            <p>Es gratis, sin anuncios ni compras dentro de la app.</p>
+          </details>
+          <details>
+            <summary>¿Qué es LIBRE?</summary>
+            <p>Es lo que te queda en mano ahora: tu sueldo menos lo que ya pagaste y lo que llevas gastado en el súper. Baja cuando marcas un gasto como pagado o anotas una compra del súper, y vuelve a subir si reabres un pago.</p>
+          </details>
+          <details>
+            <summary>¿Cómo empiezo un mes nuevo?</summary>
+            <p>Con «Copiar mes anterior» traes tus conceptos y montos del mes pasado como punto de partida. Luego corriges cada monto con lo que realmente gastaste.</p>
+          </details>
+          <details>
+            <summary>¿Puedo corregir un gasto que ya pagué?</summary>
+            <p>Sí. Al marcar un gasto como pagado queda bloqueado para que no cambie por error. Para corregirlo, mantén pulsado y elige «Reabrir pago».</p>
+          </details>
+          <details>
+            <summary>¿Cómo respaldo mis datos o cambio de celular?</summary>
+            <p>Puedes exportar un respaldo completo y restaurarlo cuando cambies de celular. También puedes exportar el mes a CSV para abrirlo en tu planilla.</p>
+          </details>
+          <details>
+            <summary>Si comparto una plantilla, ¿se comparten mis ingresos?</summary>
+            <p>No, salvo que tú lo elijas. Quien recibe la plantilla (un archivo .gdm) obtiene su propia copia, sin mezclar nada con sus datos.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ REQUISITOS ============ -->
+    <section class="section" id="requisitos" aria-labelledby="t-requisitos">
+      <div class="container">
+        <header class="section__head">
+          <p class="eyebrow">Requisitos y datos técnicos</p>
+          <h2 id="t-requisitos">Lo básico</h2>
+        </header>
+        <dl class="specs">
+          <div><dt>Sistema</dt><dd>Android 8.0 o superior</dd></div>
+          <div><dt>Idioma</dt><dd>Español</dd></div>
+          <div><dt>Precio</dt><dd>Gratis, sin anuncios ni compras</dd></div>
+          <div><dt>Permisos</dt><dd>Sin permiso de Internet</dd></div>
+          <div><dt>Paquete</dt><dd>com.vivadaproyect.cuantoqueda</dd></div>
+          <div><dt>Desarrollador</dt><dd>Vivada Proyect</dd></div>
+        </dl>
+      </div>
+    </section>
+
+    <!-- ============ SOPORTE ============ -->
+    <section class="section section--alt" id="soporte" aria-labelledby="t-soporte">
+      <div class="container">
+        <header class="section__head">
+          <p class="eyebrow">Soporte y contacto</p>
+          <h2 id="t-soporte">¿Necesitas ayuda?</h2>
+          <p>Escríbeme y te respondo.</p>
+        </header>
+        <ul class="contact-list">
+          <li><a href="mailto:vivadaproyect@gmail.com">vivadaproyect@gmail.com</a></li>
+          <li><a href="/cuantoqueda/privacidad.html">Política de privacidad</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- ============ CIERRE ============ -->
+    <section class="section">
+      <div class="container">
+        <div class="cta">
+          <h2>Hecha en español, para quienes quieren saber cuánto queda</h2>
+          <p>Sin perder tiempo. Sin conexión, sin cuentas y sin anuncios.</p>
+          <span class="btn btn--big btn--disabled">Próximamente en Google Play</span>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ============ FOOTER ============ -->
+  <footer class="footer">
+    <div class="container footer__inner">
+      <a class="brand" href="/" aria-label="Vivada Proyect, ir al sitio principal">
+        <img src="../vault/img/icono-192.png" alt="" width="34" height="34" loading="lazy">
+        <span>Vivada Proyect</span>
+      </a>
+      <ul>
+        <li><a href="/">Sitio principal</a></li>
+        <li><a href="/app/">Todas las apps</a></li>
+        <li><a href="/cuantoqueda/privacidad.html">Política de privacidad</a></li>
+        <li><a href="mailto:vivadaproyect@gmail.com">Contacto</a></li>
+      </ul>
+      <p>© 2026 Vivada Proyect · ¿Cuánto queda? Gastos del mes</p>
+    </div>
+  </footer>
+
+  <script>
+    // Botón de tema claro/oscuro (comparte la preferencia con el resto del sitio)
+    (function () {
+      var root = document.documentElement, btn = document.getElementById('themeToggle'), meta = document.querySelector('meta[name="theme-color"]');
+      function apply(t) {
+        root.setAttribute('data-theme', t);
+        btn.setAttribute('aria-label', t === 'dark' ? 'Cambiar a modo claro' : 'Cambiar a modo oscuro');
+        if (meta) meta.setAttribute('content', t === 'dark' ? '#0A1424' : '#EEF3FA');
+      }
+      apply(root.getAttribute('data-theme') === 'light' ? 'light' : 'dark');
+      btn.addEventListener('click', function () {
+        var next = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+        apply(next);
+        try { localStorage.setItem('vp-theme', next); } catch (e) {}
+      });
+    })();
+  </script>
+</body>
+</html>

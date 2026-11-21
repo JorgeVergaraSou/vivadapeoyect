@@ -197,6 +197,12 @@ a { color: var(--link); }
   .apps { grid-template-columns: repeat(2, 1fr); }
 }
 
+/* ---------- Botón sin enlace (app aún no publicada) ---------- */
+.btn--disabled { background: var(--bg-alt); color: var(--heading); border-color: var(--border); box-shadow: none; cursor: default; pointer-events: none; }
+.btn--compact { padding-inline: 14px; }
+.brand--nowrap span { white-space: nowrap; }
+.cta .btn--disabled { background: rgba(255, 255, 255, .18); color: #fff; border-color: rgba(255, 255, 255, .55); }
+
 /* ---------- Movimiento reducido ---------- */
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
